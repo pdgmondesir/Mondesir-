@@ -1,197 +1,513 @@
 #EXTM3U
-#EXTINF:-1 group-title="France",Arte
+#EXTM3U
+
+############### ACTUALITÉS FRANCE ###############
+
+#EXTINF:-1 group-title="Actualités France",franceinfo
+https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels/fr/franceinfo.m3u8
+#EXTINF:-1 group-title="Actualités France",France 24 Français
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
+#EXTINF:-1 group-title="Actualités France",BFM TV
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8
+#EXTINF:-1 group-title="Actualités France",LCI
+https://live-lci.tf1.fr/lci/lci-hd-index.m3u8
+#EXTINF:-1 group-title="Actualités France",CNews
+https://live.creacast.com/cnews/smil:cnews.smil/playlist.m3u8
+#EXTINF:-1 group-title="Actualités France",BFM Business
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8
+#EXTINF:-1 group-title="Actualités France",Public Sénat
+https://live.publicsenat.fr/live/stream/playlist.m3u8
+#EXTINF:-1 group-title="Actualités France",LCP
+https://live.lcp.fr/live/stream/playlist.m3u8
+#EXTINF:-1 group-title="Actualités France",BFM Paris
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8
+#EXTINF:-1 group-title="Actualités France",BFM Lyon
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8
+#EXTINF:-1 group-title="Actualités France",Euronews Français
+https://rakuten-euronews-10-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Actualités France",CGTN Français
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+
+############### ACTUALITÉS INTERNATIONALES ###############
+
+#EXTINF:-1 group-title="Actualités Internationales",France 24 English
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/france24eng_720p/playlist.m3u8
+#EXTINF:-1 group-title="Actualités Internationales",France 24 Arabic
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/france24ar_720p/playlist.m3u8
+#EXTINF:-1 group-title="Actualités Internationales",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 group-title="Actualités Internationales",CNN International
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Actualités Internationales",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 group-title="Actualités Internationales",Bloomberg TV
+https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+#EXTINF:-1 group-title="Actualités Internationales",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 group-title="Actualités Internationales",Africanews
+https://rakuten-africanews-1-pt.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Actualités Internationales",Sky News
+https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+#EXTINF:-1 group-title="Actualités Internationales",ABC News Live
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 group-title="Actualités Internationales",Euronews English
+https://rakuten-euronews-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Actualités Internationales",RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+
+############### CHAÎNES TNT FRANCE ###############
+
+#EXTINF:-1 group-title="France TNT",TF1
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/fr/tf1hd.m3u8
+#EXTINF:-1 group-title="France TNT",France 2
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/fr/france2hd.m3u8
+#EXTINF:-1 group-title="France TNT",France 3
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/fr/france3hd.m3u8
+#EXTINF:-1 group-title="France TNT",France 4
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/fr/france4hd.m3u8
+#EXTINF:-1 group-title="France TNT",France 5
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/fr/france5hd.m3u8
+#EXTINF:-1 group-title="France TNT",Arte
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-
-#EXTINF:-1 group-title="France",NRJ 12
+#EXTINF:-1 group-title="France TNT",M6
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/fr/m6hd.m3u8
+#EXTINF:-1 group-title="France TNT",C8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/fr/c8hd.m3u8
+#EXTINF:-1 group-title="France TNT",W9
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/fr/w9hd.m3u8
+#EXTINF:-1 group-title="France TNT",TMC
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/fr/tmchd.m3u8
+#EXTINF:-1 group-title="France TNT",TFX
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/fr/tfxhd.m3u8
+#EXTINF:-1 group-title="France TNT",NRJ 12
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
-<h1>France</h1>
+#EXTINF:-1 group-title="France TNT",CStar
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/fr/cstarhd.m3u8
+#EXTINF:-1 group-title="France TNT",Gulli
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/fr/gullihd.m3u8
+#EXTINF:-1 group-title="France TNT",TF1 Séries Films
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/fr/tf1seriesfilmshd.m3u8
+#EXTINF:-1 group-title="France TNT",6ter
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/fr/6terhd.m3u8
+#EXTINF:-1 group-title="France TNT",RMC Story
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/fr/rmcstoryhd.m3u8
+#EXTINF:-1 group-title="France TNT",RMC Découverte
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/fr/rmcdecouvertehd.m3u8
+#EXTINF:-1 group-title="France TNT",Chérie 25
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/fr/cherie25hd.m3u8
 
-<h2>Reliable feeds</h2>
+############### SPORT FOOTBALL ###############
 
-<p>These feeds are hosted by their TV channel, either on their website or their youtube channel. They're likely to continue to work well for a long period of time.</p>
+#EXTINF:-1 group-title="Sport Football",L'Équipe
+https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgkurt1/fd40b093-14dc-4d49-8ed9-5ec0dcb3e2e9/3.m3u8
+#EXTINF:-1 group-title="Sport Football",beIN Sports Xtra
+https://siloh.pluto.tv/lilo/production/bein/master.m3u8
+#EXTINF:-1 group-title="Sport Football",beIN Sports Xtra Español
+https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
+#EXTINF:-1 group-title="Sport Football",FIFA+
+https://ythls.armelin.one/channel/UCpcTrCXblq78GZrTUTLWeBw.m3u8
+#EXTINF:-1 group-title="Sport Football",OneFootball
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4451
+#EXTINF:-1 group-title="Sport Football",Ligue 1 TV
+https://ythls.armelin.one/channel/UCUj5h77Z0KcnK7FqMVNlFWQ.m3u8
+#EXTINF:-1 group-title="Sport Football",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 group-title="Sport Football",FC Barcelona TV
+https://ythls.armelin.one/channel/UCjmFkU8kEIkqqLPjeGNPDnQ.m3u8
+#EXTINF:-1 group-title="Sport Football",DAZN UEFA Women's Champions League
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd
+#EXTINF:-1 group-title="Sport Football",SPORTITALIA
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:sportitalia.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sport Football",GolTV Spain
+https://ythls.armelin.one/channel/UC6eS4_BCuBNbLOjfFVdQPTA.m3u8
+#EXTINF:-1 group-title="Sport Football",Super Sport Football
+https://ythls.armelin.one/channel/UCbT5kkBpqWs6wQWwVVnSQSw.m3u8
 
-| #   | Channel    | Link  | Logo | EPG id |
-|:---:|:----------:|:-----:|:----:|:------:|
-| 7   | Arte Ⓖ     | [>](https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/12px-Arte_Logo_2017.svg.png"/> | ARTEFrench.fr |
-| 8   | C8 Ⓓ | [>](https://www.dailymotion.com/video/x5gv5rr) | <img height="20" src="https://i.imgur.com/LXhXF8l.png"/> | C8.fr |
-| 12  | NRJ 12 | [>](https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/NRJ12_logo_2015.svg/749px-NRJ12_logo_2015.svg.png"/> | NRJ12.fr |
-| 13  | LCP          | [>](https://lcp.fr/le-live-lcp-tnt-5433) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6a/Logo_LCP-AN_-_Public_S%C3%A9nat_%282019%29.svg/53px-Logo_LCP-AN_-_Public_S%C3%A9nat_%282019%29.svg.png"/> | LCP.fr |
-| 14  | Public Sénat | [>](https://www.publicsenat.fr/direct) | <img height="20" src="https://i.imgur.com/bJOdFT1.png"/> | PublicSenat.fr |
-| 16  | CNews Ⓓ    | [>](https://www.dailymotion.com/video/x3b68jn) | <img height="20" src="https://i.imgur.com/UMRGAHx.png"/> | CNews.fr |
-| 27  | franceinfo: Ⓨ | [>](https://www.youtube.com/c/franceinfo/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/640px-Franceinfo.svg.png"/> | Franceinfo.fr |
-| 28  | France 24 Ⓨ   | [>](https://www.youtube.com/c/FRANCE24/live) | <img height="20" src="https://i.imgur.com/61MSiq9.png"/> | France24French.fr |
-| 31  | Euronews Français Ⓨ    | [>](https://www.youtube.com/euronewsfr/live) | <img height="20" src="https://i.imgur.com/3Lr5iAj.png"/> | EuronewsFrench.fr |
-| 33  | Africanews Ⓨ | [>](https://www.youtube.com/c/Africanewsfr/live) | <img height="20" src="https://i.imgur.com/xocvePC.png"/> | Africanews.cg |
-| 21  | L'Équipe ⒹⒼ    | [>](https://www.dailymotion.com/video/x2lefik) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/640px-L%27%C3%89quipe_wordmark.svg.png"/> | LEquipe.fr |
-| 32  | France Inter Ⓨ | [>](https://www.youtube.com/c/FranceInter/live) | <img height="20" src="https://i.imgur.com/d9Ncl8m.png"/> | FranceInter.fr |
-| 34  | CGTN Français | [>](https://news.cgtn.com/resource/live/french/cgtn-f.m3u8) | <img height="20" src="https://i.imgur.com/fMsJYzl.png"/> | CGTNFrench.cn |
-| 35  | BFM Business Ⓓ | [>](https://www.dailymotion.com/video/xgz4t1) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/7/78/BFM_Business_logo_2016.svg/640px-BFM_Business_logo_2016.svg.png"/> | BFMBusiness.fr |
-| 36  | BFM Paris Ⓓ | [>](https://www.dailymotion.com/video/x5z4jkk) | <img height="20" src="https://i.imgur.com/PBVJmHl.png"/> | BFMParis.fr |
-| 37  | RMC Story Ⓓ | [>](https://www.dailymotion.com/video/x7th9tq) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/RMC_Story_logo_2018.svg/640px-RMC_Story_logo_2018.svg.png"/> | RMCStory.fr |
-| 38  | RMC Info Talk Sport Ⓓ | [>](https://www.dailymotion.com/video/x8hzrmn) | <img height="20" src="https://i.imgur.com/VqzYfJH.png"/> | RMC.fr |
-| 39  | KTO Ⓖ | [>](https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/KTO_logo_2020.svg/640px-KTO_logo_2020.svg.png"/> | KTO.fr |
-| 40  | La Chaîne Normande Ⓖ | [>](https://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/X7z9tPu.png"/> | LCN.fr |
-| 41  | TV78 Ⓖ | [>](https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/playlist.m3u8) | <img height="20" src="https://i.imgur.com/JNdQvDh.png"/> | TV78.fr |
-| 42  | TL7 Ⓖ | [>](https://5dd226f8f01e8.streamlock.net/tl7/tl7/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Nx2bRMd.png"/> | TL7.fr |
-| 43  | TéléGrenoble Ⓨ | [>](https://www.youtube.com/c/TéléGrenobleIsèreTGI/live) | <img height="20" src="https://i.imgur.com/VkHRGNo.png"/> | TeleGrenoble.fr |
-| 44  | TV7 Bordeaux Ⓖ | [>](https://5dd226f8f01e8.streamlock.net/tv7/tv7/playlist.m3u8) | <img height="20" src="https://i.imgur.com/NLxqt8J.png"/> | TV7Bordeaux.fr |
-| 45  | Wéo Ⓖ | [>](https://live.digiteka.com/1/stream/weo/live/hls/weo.m3u8) | <img height="20" src="https://i.imgur.com/dMa9MgQ.png"/> | Weo.fr |
-| 46  | ViàOccitanie Ⓨ | [>](https://www.youtube.com/c/viaOccitanie/live) | <img height="20" src="https://i.imgur.com/R2qpyBW.png"/> | ViaOccitanie.fr |
-| 47  | TV Vendée Ⓖ | [>](https://live.digiteka.com/1/stream/tvvendee/live/hls/tvvendee.m3u8) | <img height="20" src="https://i.imgur.com/6XfH0rn.png"/> | TVVendee.fr |
-| 48  | France 3 Bretagne Ⓖ | [>](https://france3-breizh.ftven.fr/simulcast/France_3_Bretagne.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/899px-France_3_2018.svg.png"/> | France3Bretagne.fr |
-| 49  | France 3 Paris Île-de-France Ⓖ | [>](https://france3-idf.ftven.fr/simulcast/France_3_Paris_IDF.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/899px-France_3_2018.svg.png"/> | France3ParisIDF.fr |
-| 50  | BFM Lyon Ⓓ | [>](https://www.dailymotion.com/video/x8hesn6) | <img height="20" src="https://i.imgur.com/5cJ3XMh.png"/> | BFMLyon.fr |
-| 51  | BFM Grand Lille Ⓓ | [>](https://www.dailymotion.com/video/x7a43eq) | <img height="20" src="https://i.imgur.com/2CwYKZx.png"/> | BFMGrandLille.fr |
-| 52  | BFM Marseille Provence Ⓓ | [>](https://www.dailymotion.com/video/x8hfb6p) | <img height="20" src="https://i.imgur.com/HKnZT2C.png"/> | BFMMarseille.fr |
-| 53  | BFM Toulon Var Ⓓ | [>](https://www.dailymotion.com/video/x8hfc34) | <img height="20" src="https://i.imgur.com/RwP4Rys.png"/> | BFMToulon.fr |
-| 54  | BFM Grand Littoral Ⓓ | [>](https://www.dailymotion.com/video/x2lez94) | <img height="20" src="https://i.imgur.com/fKp7U5H.png"/> | BFMGrandLittoral.fr |
-| 55  | BFM DICI Ⓓ | [>](https://www.dailymotion.com/video/x8hf7hb) | <img height="20" src="https://i.imgur.com/Qb3kVP3.png"/> | BFMDICI.fr |
+############### SPORT BASKETBALL ###############
 
-<h2>Sports Channels Ⓨ</h2>
+#EXTINF:-1 group-title="Sport Basketball",NBA TV
+https://ythls.armelin.one/channel/UCWNPXWkjKIrGIwEr1JKpP9g.m3u8
+#EXTINF:-1 group-title="Sport Basketball",FIBA Basketball
+https://ythls.armelin.one/channel/UCtInLE44FD1wKlFvLNsCIqg.m3u8
+#EXTINF:-1 group-title="Sport Basketball",EuroLeague Basketball
+https://ythls.armelin.one/channel/UCLifGmvWN5N-8a5v93RO2eg.m3u8
+#EXTINF:-1 group-title="Sport Basketball",Real Madrid Basketball
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-es-web/master.m3u8
+#EXTINF:-1 group-title="Sport Basketball",LNB TV (Basket France)
+https://ythls.armelin.one/channel/UCWPHthMvgKYlWJ3_UHFvHdw.m3u8
 
-| #   | Channel    | Link  | Logo | EPG id |
-|:---:|:----------:|:-----:|:----:|:------:|
-| 60  | beIN Sports France 1 Ⓨ | [>](https://www.youtube.com/c/beINSportsFrance/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/BeIN_Sports_logo_%282017%29.svg/640px-BeIN_Sports_logo_%282017%29.svg.png"/> | beINSportsFrance1.fr |
-| 61  | Eurosport Ⓨ | [>](https://www.youtube.com/c/eurosport/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Eurosport_Logo_2015.svg/640px-Eurosport_Logo_2015.svg.png"/> | Eurosport1.fr |
-| 62  | Olympic Channel Ⓨ | [>](https://www.youtube.com/channel/UCTl3QQTvqHFjurroKxexy2Q/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Olympic_Channel_logo.svg/640px-Olympic_Channel_logo.svg.png"/> | OlympicChannel.fr |
-| 63  | FIFA+ Ⓨ | [>](https://www.youtube.com/c/FIFA/live) | <img height="20" src="https://i.imgur.com/gKCaW3W.png"/> | FIFAPlus.com |
-| 64  | La Fédération Française de Football Ⓨ | [>](https://www.youtube.com/c/fff/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Logo_F%C3%A9d%C3%A9ration_fran%C3%A7aise_football_2018.svg/640px-Logo_F%C3%A9d%C3%A9ration_fran%C3%A7aise_football_2018.svg.png"/> | FFF.fr |
-| 65  | FFR TV Ⓨ | [>](https://www.youtube.com/c/ffrrugby/live) | <img height="20" src="https://i.imgur.com/8FH8VdX.png"/> | FFR.fr |
-| 66  | LFP TV Ⓨ | [>](https://www.youtube.com/c/LFPfr/live) | <img height="20" src="https://i.imgur.com/w7kgmDG.png"/> | LFP.fr |
-| 67  | Tour de France Ⓨ | [>](https://www.youtube.com/c/LeTour/live) | <img height="20" src="https://i.imgur.com/k3Z6GXf.png"/> | TourDeFrance.fr |
-| 68  | UEFA TV Ⓨ | [>](https://www.youtube.com/c/uefatv/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/UEFA_logo_%282012%29.svg/640px-UEFA_logo_%282012%29.svg.png"/> | UEFA.tv |
-| 69  | Roland Garros Ⓨ | [>](https://www.youtube.com/c/rolandgarros/live) | <img height="20" src="https://i.imgur.com/M7pQy8j.png"/> | RolandGarros.fr |
-| 70  | FFHandball Ⓨ | [>](https://www.youtube.com/c/FFHandball/live) | <img height="20" src="https://i.imgur.com/wH8T3vH.png"/> | FFHandball.fr |
-| 71  | FIBA Ⓨ | [>](https://www.youtube.com/c/FIBA/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/FIBA_new_logo.svg/640px-FIBA_new_logo.svg.png"/> | FIBA.basketball |
-| 72  | Formula 1 Ⓨ | [>](https://www.youtube.com/c/F1/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/640px-F1.svg.png"/> | Formula1.com |
-| 73  | MotoGP Ⓨ | [>](https://www.youtube.com/c/MotoGP/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/MotoGP_logo.svg/640px-MotoGP_logo.svg.png"/> | MotoGP.com |
-| 74  | Red Bull TV Ⓨ | [>](https://www.youtube.com/c/redbull/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RedBull_TV_logo.svg/640px-RedBull_TV_logo.svg.png"/> | RedBullTV.com |
-| 75  | WWE Ⓨ | [>](https://www.youtube.com/c/WWE/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/WWE_Network_logo.svg/640px-WWE_Network_logo.svg.png"/> | WWE.com |
+############### SPORT GÉNÉRAL ###############
 
-<h2>International French Channels</h2>
+#EXTINF:-1 group-title="Sport Général",Eurosport 1
+https://ythls.armelin.one/channel/UCTh-UNCPC4JCxvjJPFCqPvg.m3u8
+#EXTINF:-1 group-title="Sport Général",Olympic Channel
+https://oc-linear-1-akamai-us.otl.cdn.olympicchannel.com/out/u/OC1_3.m3u8
+#EXTINF:-1 group-title="Sport Général",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="Sport Général",Motorsport TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4696
+#EXTINF:-1 group-title="Sport Général",Stadium
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 group-title="Sport Général",Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sport Général",Garage TV (Sport Auto)
+https://stream1.cinerama.uz/1258/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sport Général",Fuel TV
+https://fuel-tv-samsung-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sport Général",Edge Sport
+https://edgesportglobal-samsung-ca.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sport Général",World Poker Tour
+https://wpt-samsung-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sport Général",beIN Sports Xtra N°2
+https://siloh.pluto.tv/lilo/production/bein/2/master.m3u8
+#EXTINF:-1 group-title="Sport Général",Outside TV+
+https://outsidetv-samsung-uk.amagi.tv/playlist.m3u8
 
-| #   | Channel    | Link  | Logo | EPG id |
-|:---:|:----------:|:-----:|:----:|:------:|
-| 80  | RTBF La Une Ⓖ | [>](https://rtbf-vod.akamaized.net/hls/live/2005193/LaUne/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Une_logo.svg/640px-La_Une_logo.svg.png"/> | LaUne.be |
-| 81  | RTBF La Deux Ⓖ | [>](https://rtbf-vod.akamaized.net/hls/live/2005194/LaDeux/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/La_Deux_logo.svg/640px-La_Deux_logo.svg.png"/> | LaDeux.be |
-| 82  | RTBF La Trois Ⓖ | [>](https://rtbf-vod.akamaized.net/hls/live/2005195/LaTrois/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/La_Trois_logo.svg/640px-La_Trois_logo.svg.png"/> | LaTrois.be |
-| 83  | RTS Un Ⓖ | [>](https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/RTS_Un_logo.svg/640px-RTS_Un_logo.svg.png"/> | RTSUn.ch |
-| 84  | RTS Deux Ⓖ | [>](https://rtsc3video.akamaized.net/hls/live/2042838/c3video/3/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RTS_Deux_logo.svg/640px-RTS_Deux_logo.svg.png"/> | RTSDeux.ch |
-| 85  | TeleQuebec Ⓖ | [>](https://teleqc.akamaized.net/hls/live/2085080/tq/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/640px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg.png"/> | Telequebec.ca |
-| 86  | ICI RDI Ⓖ | [>](https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/ICI_RDI_logo.svg/640px-ICI_RDI_logo.svg.png"/> | ICIRDI.ca |
-| 87  | TV5 Québec Canada Ⓖ | [>](https://ott.tv5monde.com/Content/HLS/Live/channel(quebec)/index.m3u8) | <img height="20" src="https://i.imgur.com/uPmwTo9.png"/> | TV5QuebecCanada.ca |
-| 88  | RTI 1 Ⓖ | [>](https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/rP9zYqL.png"/> | RTI1.ci |
-| 89  | RTI 2 Ⓖ | [>](https://www.enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/EHmrXNT.png"/> | RTI2.ci |
-| 90  | 2STV Sénégal Ⓖ | [>](https://live.2sgroup.net/2stv/2stv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/WiQzQHx.png"/> | 2STV.sn |
-| 91  | A2i Bénin Ⓨ | [>](https://www.youtube.com/c/A2imusic/live) | <img height="20" src="https://i.imgur.com/KBznYcD.png"/> | A2i.bj |
-| 92  | Canal+ Afrique Ⓖ | [>](https://rakuten-canalplus-1-be.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/640px-Canal%2B.svg.png"/> | CanalPlusAfrique.sn |
-| 93  | France 24 English Ⓨ | [>](https://www.youtube.com/c/FRANCE24English/live) | <img height="20" src="https://i.imgur.com/61MSiq9.png"/> | France24English.fr |
-| 94  | France 24 Arabic Ⓨ | [>](https://www.youtube.com/c/France24Arabic/live) | <img height="20" src="https://i.imgur.com/61MSiq9.png"/> | France24Arabic.fr |
-| 95  | France 24 Spanish Ⓨ | [>](https://www.youtube.com/c/FRANCE24Español/live) | <img height="20" src="https://i.imgur.com/61MSiq9.png"/> | France24Spanish.fr |
+############### SPORT RUGBY ###############
 
-<h2>Lifestyle & Entertainment Ⓨ</h2>
+#EXTINF:-1 group-title="Sport Rugby",FFR Rugby
+https://ythls.armelin.one/channel/UCY9T34qEaWVl4yLU2bX-bwg.m3u8
+#EXTINF:-1 group-title="Sport Rugby",World Rugby
+https://ythls.armelin.one/channel/UCVebdIVdZm_H8VciUsW7-QQ.m3u8
 
-| #   | Channel    | Link  | Logo | EPG id |
-|:---:|:----------:|:-----:|:----:|:------:|
-| 100 | Fashion TV Ⓨ | [>](https://www.youtube.com/c/FashionTV/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/640px-Fashion_TV_logo.svg.png"/> | FashionTV.fr |
-| 101 | Trace Urban Ⓖ | [>](https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/lQkSMSz.png"/> | TraceUrban.fr |
-| 102 | MCM Ⓖ | [>](https://mcm-live.akamaized.net/hls/live/2043693/mcmfr/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f7/MCM_logo_2015.svg/640px-MCM_logo_2015.svg.png"/> | MCM.fr |
-| 103 | MCM Top Ⓖ | [>](https://mcm-live.akamaized.net/hls/live/2043694/mcmtop/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/MCM_Top_logo_2015.svg/640px-MCM_Top_logo_2015.svg.png"/> | MCMTop.fr |
-| 104 | BFM TV Ⓓ | [>](https://www.dailymotion.com/video/xgz4t1) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_BFM_TV_%282019%29.png/640px-Logo_BFM_TV_%282019%29.png"/> | BFMTV.fr |
-| 105 | Télétoon+ Ⓖ | [>](https://bozztv.com/36bay2/gin/giniko_teletoonplus_800kb_36bay2/tracks-v1a1/mono.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/9/94/T%C3%A9l%C3%A9toon%2B_logo_2016.svg/640px-T%C3%A9l%C3%A9toon%2B_logo_2016.svg.png"/> | TeletoonPlus.fr |
-| 106 | Cartoon Network France Ⓖ | [>](https://playout.3qsdn.com/f45cfd18-db45-4b7d-ba66-5929f9a02b60/stream.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/640px-Cartoon_Network_2010_logo.svg.png"/> | CartoonNetwork.fr |
-| 107 | Boomerang France Ⓖ | [>](https://playout.3qsdn.com/d15fa1e3-af9e-4bf2-a278-77ac0c9f0b43/stream.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Boomerang_2014_logo.svg/640px-Boomerang_2014_logo.svg.png"/> | Boomerang.fr |
-| 108 | Piwi+ Ⓖ | [>](https://streaming.softnix.com/magticom/piwi.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/d/df/Piwi%2B_2011_logo.svg/640px-Piwi%2B_2011_logo.svg.png"/> | PiwiPlus.fr |
-| 109 | Tiji Ⓖ | [>](https://live.zendzend.com/tiji/tiji/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a7/Tiji_logo_2017.svg/640px-Tiji_logo_2017.svg.png"/> | Tiji.fr |
-| 110 | TiJi Junior Ⓖ | [>](https://live.zendzend.com/tijiuni/tijiuni/playlist.m3u8) | <img height="20" src="https://i.imgur.com/vDWcPhQ.png"/> | TijiJunior.fr |
+############### SPORT TENNIS & GOLF ###############
 
-<h2>Documentary & Culture Ⓨ</h2>
+#EXTINF:-1 group-title="Sport Tennis & Golf",Roland Garros
+https://ythls.armelin.one/channel/UCGTqLMKYE7_QYR7gHWxvabg.m3u8
+#EXTINF:-1 group-title="Sport Tennis & Golf",ATP Tour
+https://ythls.armelin.one/channel/UCbcxFkd6B9xUU54InHv4Zig.m3u8
+#EXTINF:-1 group-title="Sport Tennis & Golf",WTA Tennis
+https://ythls.armelin.one/channel/UCKfzWZUT5PLinUEha-lzRKA.m3u8
+#EXTINF:-1 group-title="Sport Tennis & Golf",PGA Tour Golf
+https://ythls.armelin.one/channel/UCWdh2JJsLNTEzJEYNJMZYIQ.m3u8
 
-| #   | Channel    | Link  | Logo | EPG id |
-|:---:|:----------:|:-----:|:----:|:------:|
-| 120 | National Geographic France Ⓨ | [>](https://www.youtube.com/c/NatGeoFrance/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/640px-Natgeologo.svg.png"/> | NatGeoFrance.fr |
-| 121 | Discovery Channel France Ⓨ | [>](https://www.youtube.com/c/DiscoveryChannelFrance/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/640px-Discovery_Channel_-_Logo_2019.svg.png"/> | DiscoveryFrance.fr |
-| 122 | Arte Concert Ⓨ | [>](https://www.youtube.com/c/ARTEConcert/live) | <img height="20" src="https://i.imgur.com/P7s6kpf.png"/> | ArteConcert.fr |
-| 123 | National Geographic Wild Ⓨ | [>](https://www.youtube.com/c/NatGeoWild/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/640px-National_Geographic_Wild_logo.svg.png"/> | NatGeoWild.fr |
-| 124 | History Channel Ⓨ | [>](https://www.youtube.com/c/HistoryFR/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/640px-History_%282021%29.svg.png"/> | History.fr |
-| 125 | Voyage Ⓖ | [>](https://voyagechannelfr.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/rnCBt1k.png"/> | Voyage.fr |
-| 126 | Museum TV Ⓨ | [>](https://www.youtube.com/c/MuseumTV/live) | <img height="20" src="https://i.imgur.com/T2xh8Vz.png"/> | MuseumTV.fr |
-| 127 | Seasons Ⓖ | [>](https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed53c5b5dbc0007a40034/master.m3u8) | <img height="20" src="https://i.imgur.com/VPL0XcF.png"/> | Seasons.fr |
+############### SPORT CYCLISME & COURSE ###############
 
-<h2>DVB-S</h2>
+#EXTINF:-1 group-title="Sport Cyclisme",Tour de France
+https://ythls.armelin.one/channel/UCGgR_s3n63M5AxDXVCNk8dA.m3u8
+#EXTINF:-1 group-title="Sport Cyclisme",GCN+ Cycling
+https://ythls.armelin.one/channel/UCuTaETsuCOkJ0H_GAztWt0Q.m3u8
+#EXTINF:-1 group-title="Sport Course",Formula 1
+https://ythls.armelin.one/channel/UCB0iOtzfilebHCZiBMkBVTg.m3u8
+#EXTINF:-1 group-title="Sport Course",MotoGP
+https://ythls.armelin.one/channel/UCmi...qL7FMcKU.m3u8
+#EXTINF:-1 group-title="Sport Course",FIA WEC (24H Le Mans)
+https://ythls.armelin.one/channel/UCm3t2xPRsgFyH8-hkq8LhSw.m3u8
+#EXTINF:-1 group-title="Sport Course",NASCAR
+https://ythls.armelin.one/channel/UCgYFNq-9KoZqbbO3RYzNzSw.m3u8
 
-| #   | Channel        | Link  | Logo | EPG id |
-|:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | TF1 | [x](http://livetv.ktv.zone/3/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/TF1_%282013%29.svg/640px-TF1_%282013%29.svg.png"/> | TF1.fr |
-| 2   | France 2 | [x](http://livetv.ktv.zone/104/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/886px-France_2_2018.svg.png"/> | France2.fr |
-| 3   | France 3 | [x](http://livetv.ktv.zone/105/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/899px-France_3_2018.svg.png"/> | France3.fr |
-| 4   | France 4 | [x](http://livetv.ktv.zone/116/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/998px-France_4_2018.svg.png"/> | France4.fr |
-| 5   | France 5 | [x](http://livetv.ktv.zone/107/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/900px-France_5_2018.svg.png"/> | France5.fr |
-| 6   | M6 | [x](http://livetv.ktv.zone/6/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/640px-Logo_M6_%282020%2C_fond_clair%29.svg.png"/> | M6.fr |
-| 9   | W9 | [x](http://livetv.ktv.zone/9/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/W9_2018.svg/640px-W9_2018.svg.png"/> | W9.fr |
-| 10  | TMC | [x](http://livetv.ktv.zone/12/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/512px-TMC_logo_2016.svg.png"/> | TMC.fr |
-| 11  | TFX | [x](http://livetv.ktv.zone/13/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/640px-TFX_logo_2018.svg.png"/> | TFX.fr |
-| 15  | BFM TV | [x](http://livetv.ktv.zone/15/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_BFM_TV_%282019%29.png/640px-Logo_BFM_TV_%282019%29.png"/> | BFMTV.fr |
-| 17  | CStar | [x](http://livetv.ktv.zone/17/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Logo_projet_CStar.svg/640px-Logo_projet_CStar.svg.png"/> | CStar.fr |
-| 18  | Gulli | [x](http://livetv.ktv.zone/18/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/18._Gulli.png/640px-18._Gulli.png"/> | Gulli.fr |
-| 19  | Canal+ | [x](http://livetv.ktv.zone/19/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/640px-Canal%2B.svg.png"/> | CanalPlus.fr |
-| 20  | TF1 Séries Films | [x](http://livetv.ktv.zone/22/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/640px-TF1_S%C3%A9ries_Films_logo_2020.svg.png"/> | TF1SeriesFilms.fr |
-| 22  | 6ter | [x](http://livetv.ktv.zone/23/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a9/6ter_2012.png/640px-6ter_2012.png"/> | 6ter.fr |
-| 23  | RMC Story | [x](http://livetv.ktv.zone/24/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/RMC_Story_logo_2018.svg/640px-RMC_Story_logo_2018.svg.png"/> | RMCStory.fr |
-| 24  | RMC Découverte | [x](http://livetv.ktv.zone/25/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/640px-RMC_D%C3%A9couverte_logo_2017.svg.png"/> | RMCDecouverte.fr |
-| 25  | Chérie 25 | [x](http://livetv.ktv.zone/26/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f0/Ch%C3%A9rie_25_logo_2015.svg/640px-Ch%C3%A9rie_25_logo_2015.svg.png"/> | Cherie25.fr |
-| 26  | LCI | [x](http://livetv.ktv.zone/27/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg/640px-LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg.png"/> | LCI.fr |
-| 29  | TV5 Monde Info | [>](https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8) | <img height="20" src="https://i.imgur.com/NcysrWH.png"/> | TV5MondeInfo.fr |
-| 30  | TV5 Monde FBS | [>](https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8) | <img height="20" src="https://i.imgur.com/uPmwTo9.png"/> | TV5MondeFranceBelgiumSwitzerland.fr |
-| 31  | TV5 Monde Europe | [>](https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8) | <img height="20" src="https://i.imgur.com/uPmwTo9.png"/> | TV5MondeEurope.fr |
-| 35  | Canal+ Sport | [x](http://livetv.ktv.zone/35/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/640px-Canal%2B.svg.png"/> | CanalPlusSport.fr |
-| 36  | Canal+ Cinéma | [x](http://livetv.ktv.zone/36/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/640px-Canal%2B.svg.png"/> | CanalPlusCinema.fr |
-| 37  | Canal+ Séries | [x](http://livetv.ktv.zone/37/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/640px-Canal%2B.svg.png"/> | CanalPlusSeries.fr |
-| 38  | Canal+ Décalé | [x](http://livetv.ktv.zone/38/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/640px-Canal%2B.svg.png"/> | CanalPlusDecale.fr |
-| 39  | Planète+ | [x](http://livetv.ktv.zone/39/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/69/Plan%C3%A8te%2B_logo_2016.svg/640px-Plan%C3%A8te%2B_logo_2016.svg.png"/> | PlanetePlus.fr |
-| 40  | Ciné+ Premier | [x](http://livetv.ktv.zone/40/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/66/Cin%C3%A9%2B_Premier_logo_2016.svg/640px-Cin%C3%A9%2B_Premier_logo_2016.svg.png"/> | CinePremier.fr |
-| 41  | Ciné+ Frisson | [x](http://livetv.ktv.zone/41/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3f/Cin%C3%A9%2B_Frisson_logo_2016.svg/640px-Cin%C3%A9%2B_Frisson_logo_2016.svg.png"/> | CineFrisson.fr |
-| 42  | Ciné+ Émotion | [x](http://livetv.ktv.zone/42/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e9/Cin%C3%A9%2B_%C3%89motion_logo_2016.svg/640px-Cin%C3%A9%2B_%C3%89motion_logo_2016.svg.png"/> | CineEmotion.fr |
-| 43  | Ciné+ Famiz | [x](http://livetv.ktv.zone/43/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/3/39/Cin%C3%A9%2B_Famiz_logo_2016.svg/640px-Cin%C3%A9%2B_Famiz_logo_2016.svg.png"/> | CineFamiz.fr |
-| 44  | Ciné+ Club | [x](http://livetv.ktv.zone/44/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Cin%C3%A9%2B_Club_logo_2016.svg/640px-Cin%C3%A9%2B_Club_logo_2016.svg.png"/> | CineClub.fr |
-| 45  | OCS Max | [x](http://livetv.ktv.zone/45/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/OCS_Max_logo_2019.svg/640px-OCS_Max_logo_2019.svg.png"/> | OCSMax.fr |
-| 46  | OCS City | [x](http://livetv.ktv.zone/46/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/OCS_City_logo_2019.svg/640px-OCS_City_logo_2019.svg.png"/> | OCSCity.fr |
-| 47  | OCS Choc | [x](http://livetv.ktv.zone/47/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/OCS_Choc_logo_2019.svg/640px-OCS_Choc_logo_2019.svg.png"/> | OCSChoc.fr |
-| 48  | OCS Géants | [x](http://livetv.ktv.zone/48/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/OCS_G%C3%A9ants_logo_2019.svg/640px-OCS_G%C3%A9ants_logo_2019.svg.png"/> | OCSGeants.fr |
-| 0   | RT France Ⓖ | [>](https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/512px-RT-France-logo.svg.png"/> | RTFrance.fr |
+############### SPORT COMBAT ###############
 
-<h2>Unreliable (other)</h2>
+#EXTINF:-1 group-title="Sport Combat",WWE
+https://ythls.armelin.one/channel/UCJ5v_MCY6GNUBTO8-D3XoAg.m3u8
+#EXTINF:-1 group-title="Sport Combat",UFC
+https://ythls.armelin.one/channel/UCvgfXK4nTYKudb0rFR6noLA.m3u8
+#EXTINF:-1 group-title="Sport Combat",ONE Championship
+https://ythls.armelin.one/channel/UCiormkBf3jm6mfb7k0yPbKA.m3u8
+#EXTINF:-1 group-title="Sport Combat",Bellator MMA
+https://ythls.armelin.one/channel/UCjbkN_MgFHp2l5rcCuWgMkQ.m3u8
+#EXTINF:-1 group-title="Sport Combat",PFL MMA
+https://ythls.armelin.one/channel/UCRRGq4zKoFmk-4QC0yJMIxQ.m3u8
 
-| #   | Channel    | Link  | Logo | EPG id |
-|:---:|:----------:|:-----:|:----:|:------:|
-| 1   | TF1        | [x](https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/62px-TF1_logo_2013.png"/> | TF1.fr |
-| 4   | France 4   | [x](http://edge9.iptvnetwork.net/live/france4/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/39px-France_4_2018.svg.png"/> | France4.fr |
-| 15  | BFM TV     | [x](https://bfmtvalive1-a.akamaihd.net/r8ef15893bf3d4c2db0105218bdfe87f4/eu-central-1/876450610001/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_BFM_TV_%282019%29.png/53px-Logo_BFM_TV_%282019%29.png"/> | BFMTV.fr |
-| 18  | Gulli      | [x](https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/18._Gulli.png/57px-18._Gulli.png"/> | Gulli.fr |
-| 22  | 6ter       | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a9/6ter_2012.png/73px-6ter_2012.png"/> | 6ter.fr |
-| 26  | LCI          | [x](https://sv0.data-stream.top/hls/lci.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg/62px-LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg.png"/> | LCI.fr |
-| 27  | Téva       | [x](https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed3f6e0a5700007e0f69d/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6e/T%C3%A9va_logo_2016.svg/640px-T%C3%A9va_logo_2016.svg.png"/> | Teva.fr |
-| 28  | Paris Première | [x](https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed428f0af96000743f93e/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/42/Paris_Premi%C3%A8re_logo_2016.svg/640px-Paris_Premi%C3%A8re_logo_2016.svg.png"/> | ParisPremiere.fr |
-| 29  | Action      | [x](https://rakuten-action-14-be.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Action_%28chaine_de_t%C3%A9l%C3%A9vision%29_logo.svg/640px-Action_%28chaine_de_t%C3%A9l%C3%A9vision%29_logo.svg.png"/> | Action.fr |
-| 30  | Mangas      | [x](https://rakuten-mangas-1-be.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/xqmfKXK.png"/> | Mangas.fr |
-| 31  | Comedy Central France | [x](https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed3f5b10a5f000743fbe0/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/640px-Comedy_Central_2018.svg.png"/> | ComedyCentralFrance.fr |
+############### DOCUMENTAIRES NATURE ###############
 
-<h2>Unreliable (tntdirect)</h2>
+#EXTINF:-1 group-title="Documentaires Nature",National Geographic
+https://ythls.armelin.one/channel/UCpVm7bg6pXKo1Pr6k5kxG9A.m3u8
+#EXTINF:-1 group-title="Documentaires Nature",National Geographic Wild
+https://ythls.armelin.one/channel/UCg-rKnbVrOJHCbVBRCuWq5Q.m3u8
+#EXTINF:-1 group-title="Documentaires Nature",Discovery Channel
+https://ythls.armelin.one/channel/UCEdvpU2pFRCVqU6yIPyTpMQ.m3u8
+#EXTINF:-1 group-title="Documentaires Nature",Animal Planet
+https://ythls.armelin.one/channel/UCkQX_dZQ1KNZpKZwp3EviWw.m3u8
+#EXTINF:-1 group-title="Documentaires Nature",BBC Earth
+https://ythls.armelin.one/channel/UCwmZiChSryoWQCZMIQezgTg.m3u8
+#EXTINF:-1 group-title="Documentaires Nature",Smithsonian Channel
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Documentaires Nature",Love Nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Documentaires Nature",WaterBear (Nature)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbearglobal-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="Documentaires Nature",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
-| #   | Channel    | Link  | Logo | EPG id |
-|:---:|:----------:|:-----:|:----:|:------:|
-| 1   | TF1        | [x](https://s13.tntendirect.com/tf1/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/62px-TF1_logo_2013.png"/> | TF1.fr |
-| 2   | France 2   | [x](https://s13.tntendirect.com/france2/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/35px-France_2_2018.svg.png"/> | France2.fr |
-| 3   | France 3   | [x](https://s13.tntendirect.com/france3/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/35px-France_3_2018.svg.png"/> | France3.fr |
-| 5   | France 5   | [x](https://s13.tntendirect.com/france5/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/35px-France_5_2018.svg.png"/> | France5.fr |
-| 6   | M6         | [x](https://s13.tntendirect.com/m6/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/49px-Logo_M6_%282020%2C_fond_clair%29.svg.png"/> | M6.fr |
-| 8   | C8         | [x](https://s13.tntendirect.com/d8/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/LXhXF8l.png"/> | C8.fr |
-| 9   | W9         | [x](https://s13.tntendirect.com/w9/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/W9_2018.svg/56px-W9_2018.svg.png"/> | W9.fr |
-| 10  | TMC        | [x](https://s13.tntendirect.com/tmc/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/512px-TMC_logo_2016.svg.png"/> | TMC.fr |
-| 11  | TFX        | [x](https://s13.tntendirect.com/nt1/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/640px-TFX_logo_2018.svg.png"/> | TFX.fr |
-| 12  | NRJ 12     | [x](https://s13.tntendirect.com/nrj12/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/NRJ_12_logo_2015.svg/757px-NRJ_12_logo_2015.svg.png"/> | NRJ12.fr |
-| 17  | CStar      | [x](https://s13.tntendirect.com/d17/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Logo_projet_CStar.svg/80px-Logo_projet_CStar.svg.png"/> | CStar.fr |
-| 20  | TF1 Séries Films | [x](https://s13.tntendirect.com/hd1/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/640px-TF1_S%C3%A9ries_Films_logo_2020.svg.png"/> | TF1SeriesFilms.fr |
-| 21  | L'Équipe Ⓖ | [x](https://s13.tntendirect.com/lequipe21/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/640px-L%27%C3%89quipe_wordmark.svg.png"/> | LEquipe.fr |
-| 24  | RMC Découverte | [x](https://s13.tntendirect.com/rmcdecouverte/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/76px-RMC_D%C3%A9couverte_logo_2017.svg.png"/> | RMCDecouverte.fr |
-| 25  | Chérie 25  | [x](https://s13.tntendirect.com/cherie25/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f0/Ch%C3%A9rie_25_logo_2015.svg/51px-Ch%C3%A9rie_25_logo_2015.svg.png"/> | Cherie25.fr |
+############### DOCUMENTAIRES HISTOIRE & SCIENCE ###############
+
+#EXTINF:-1 group-title="Documentaires Histoire",History Channel
+https://ythls.armelin.one/channel/UCyMwkXWGqkIWR0BV9cWGpCw.m3u8
+#EXTINF:-1 group-title="Documentaires Histoire",Timeline (Histoire)
+https://ythls.armelin.one/channel/UC88lvyJe7aHZmcvzvubDFRg.m3u8
+#EXTINF:-1 group-title="Documentaires Histoire",Real Crime
+https://ythls.armelin.one/channel/UCqiurOI75LL5yFh8cPIh_dw.m3u8
+#EXTINF:-1 group-title="Documentaires Science",Science Channel
+https://ythls.armelin.one/channel/UCvJJ_dzjViJCoLf5uKUTwoA.m3u8
+#EXTINF:-1 group-title="Documentaires Science",Spark (Science)
+https://ythls.armelin.one/channel/UCgDOV_AxqbEXBzEDMg8kzXA.m3u8
+#EXTINF:-1 group-title="Documentaires Science",Real Science
+https://ythls.armelin.one/channel/UCqJ_vZSU7N7hOWMjJrxRNmg.m3u8
+
+############### VOYAGE & EXPLORATION ###############
+
+#EXTINF:-1 group-title="Voyage",Travel XP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Voyage",Travelxp 4K
+https://d2u0pom8xsshr4.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="Voyage",Tastemade Travel
+https://tastemadetravel-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Voyage",Museum TV
+https://ythls.armelin.one/channel/UCQBJPiZ_mBvMqDp82IRpwcw.m3u8
+#EXTINF:-1 group-title="Voyage",Gusto TV
+https://gustotv-samsung-ca.samsung.wurl.tv/playlist.m3u8
+
+############### CULTURE & ARTS ###############
+
+#EXTINF:-1 group-title="Culture",Arte Concert
+https://ythls.armelin.one/channel/UCd0kLuxASKQ1cvJbxFF9Vug.m3u8
+#EXTINF:-1 group-title="Culture",Mezzo Live HD
+https://ott.tv5monde.com/Content/HLS/Live/channel(mezzo)/index.m3u8
+#EXTINF:-1 group-title="Culture",Classical KUSC
+https://classicalkusc-kuscfm.streamguys1.com/kuscfm-live-mp3
+#EXTINF:-1 group-title="Culture",Stingray Classica
+https://ott-channels.stingray.com/stingray/classica/master.m3u8
+#EXTINF:-1 group-title="Culture",Fashion TV
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+############### MUSIQUE ###############
+
+#EXTINF:-1 group-title="Musique",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Musique",Trace Tropical
+https://lightning-tracetropical-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Musique",MTV Biggest Pop
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8
+#EXTINF:-1 group-title="Musique",MTV Classic
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8
+#EXTINF:-1 group-title="Musique",MTV Spankin New
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080c/master.m3u8
+#EXTINF:-1 group-title="Musique",VH1 Classic
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecbc673430e0007e4ed0b/master.m3u8
+#EXTINF:-1 group-title="Musique",Vevo Pop
+https://5dcc6a54d90e8c5974923990-s-4.ssai.zype.com/5dcc6a54d90e8c5974923990-s-4/manifest.m3u8
+#EXTINF:-1 group-title="Musique",Vevo Hip Hop
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
+#EXTINF:-1 group-title="Musique",Vevo R&B
+https://5dcc6aadc6d2a874c2942ea1-s-2.ssai.zype.com/5dcc6aadc6d2a874c2942ea1-s-2/manifest.m3u8
+#EXTINF:-1 group-title="Musique",Clubbing TV
+https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Musique",Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 group-title="Musique",The K-Pop
+https://kpop-samsung-uk.amagi.tv/playlist.m3u8
+
+############### ENFANTS ###############
+
+#EXTINF:-1 group-title="Enfants",Cartoon Network
+https://playout.3qsdn.com/f45cfd18-db45-4b7d-ba66-5929f9a02b60/stream.m3u8
+#EXTINF:-1 group-title="Enfants",Boomerang
+https://playout.3qsdn.com/d15fa1e3-af9e-4bf2-a278-77ac0c9f0b43/stream.m3u8
+#EXTINF:-1 group-title="Enfants",Pluto TV Kids
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00076d7c97/master.m3u8
+#EXTINF:-1 group-title="Enfants",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 group-title="Enfants",Nickelodeon
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8
+#EXTINF:-1 group-title="Enfants",Baby TV
+https://ythls.armelin.one/channel/UCe_5RaWCc1feIwEknv2lZ6g.m3u8
+#EXTINF:-1 group-title="Enfants",Toon Goggles
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
+#EXTINF:-1 group-title="Enfants",HappyKids
+https://happykids-happykids-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Enfants",Pocket Watch
+https://pocketwatch-pocketwatch-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Enfants",Ryan and Friends
+https://ryanandfriends-ryanand-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+############### FILMS & SÉRIES ###############
+
+#EXTINF:-1 group-title="Films & Séries",Rakuten Action
+https://rakuten-action-14-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Films & Séries",Rakuten Comedy
+https://rakuten-comedy-14-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Films & Séries",Rakuten Drama
+https://rakuten-drama-14-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Films & Séries",Rakuten Thriller
+https://rakuten-thriller-14-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Films & Séries",Rakuten Top Free
+https://rakuten-topfree-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Films & Séries",Dark Matter TV
+https://dmtv-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Films & Séries",FilmRise Action
+https://filmrise-filmriseaction-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Films & Séries",FilmRise Classic TV
+https://filmrise-filmriseclassictv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Films & Séries",FilmRise Sci-Fi
+https://filmrise-filmrisescifi-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Films & Séries",The Asylum
+https://theasylum-theasylum-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Films & Séries",MovieSphere
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Films & Séries",Hell's Kitchen
+https://hellskitchen-samsung-uk.amagi.tv/playlist.m3u8
+
+############### DIVERTISSEMENT ###############
+
+#EXTINF:-1 group-title="Divertissement",Comedy Central
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed3f5b10a5f000743fbe0/master.m3u8
+#EXTINF:-1 group-title="Divertissement",Fail Army
+https://failarmy-international-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Divertissement",The Pet Collective
+https://the-pet-collective-international-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Divertissement",People Are Awesome
+https://peopleareawesome-international-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Divertissement",Tastemade
+https://tastemade-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Divertissement",The Design Network
+https://thedesignnetwork-tdn-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Divertissement",Food52
+https://food52-samsung-uk.amagi.tv/playlist.m3u8
+
+############### BELGIQUE ###############
+
+#EXTINF:-1 group-title="Belgique",RTBF La Une
+https://rtbf-vod.akamaized.net/hls/live/2005193/LaUne/master.m3u8
+#EXTINF:-1 group-title="Belgique",RTBF La Deux
+https://rtbf-vod.akamaized.net/hls/live/2005194/LaDeux/master.m3u8
+#EXTINF:-1 group-title="Belgique",RTBF La Trois
+https://rtbf-vod.akamaized.net/hls/live/2005195/LaTrois/master.m3u8
+#EXTINF:-1 group-title="Belgique",BX1
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+
+############### SUISSE ###############
+
+#EXTINF:-1 group-title="Suisse",RTS Un
+https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
+#EXTINF:-1 group-title="Suisse",RTS Deux
+https://rtsc3video.akamaized.net/hls/live/2042838/c3video/3/playlist.m3u8
+#EXTINF:-1 group-title="Suisse",Léman Bleu
+https://livevideo.infomaniak.com/streaming/livecast/lemanbleu/playlist.m3u8
+
+############### CANADA ###############
+
+#EXTINF:-1 group-title="Canada",Télé-Québec
+https://teleqc.akamaized.net/hls/live/2085080/tq/index.m3u8
+#EXTINF:-1 group-title="Canada",ICI RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 group-title="Canada",TV5 Québec Canada
+https://ott.tv5monde.com/Content/HLS/Live/channel(quebec)/index.m3u8
+
+############### AFRIQUE ###############
+
+#EXTINF:-1 group-title="Afrique",2STV Sénégal
+https://live.2sgroup.net/2stv/2stv/playlist.m3u8
+#EXTINF:-1 group-title="Afrique",RTI 1 Côte d'Ivoire
+https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Afrique",RTI 2 Côte d'Ivoire
+https://www.enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Afrique",Canal+ Afrique
+https://rakuten-canalplus-1-be.samsung.wurl.tv/playlist.m3u8
+
+############### TV5 MONDE ###############
+
+#EXTINF:-1 group-title="TV5 Monde",TV5 Monde Info
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
+#EXTINF:-1 group-title="TV5 Monde",TV5 Monde FBS
+https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
+#EXTINF:-1 group-title="TV5 Monde",TV5 Monde Europe
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
+#EXTINF:-1 group-title="TV5 Monde",TV5 Monde Asie
+https://ott.tv5monde.com/Content/HLS/Live/channel(asie)/index.m3u8
+#EXTINF:-1 group-title="TV5 Monde",TV5 Monde Pacifique
+https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/index.m3u8
+
+############### CHAÎNES INTERNATIONALES ###############
+
+#EXTINF:-1 group-title="International",RAI 1 (Italie)
+https://ythls.armelin.one/channel/UCx5hg8EfO23nYRnnVZrAqow.m3u8
+#EXTINF:-1 group-title="International",TVE Internacional (Espagne)
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_main.m3u8
+#EXTINF:-1 group-title="International",DW Deutsch
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 group-title="International",NHK World Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 group-title="International",Russia Today
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:-1 group-title="International",TRT World
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="International",CGTN English
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 group-title="International",CGTN Arabic
+https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+
+############### LIFESTYLE & CUISINE ###############
+
+#EXTINF:-1 group-title="Lifestyle",Fashion TV
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle",FashionBox
+https://fashionboxsd-fashionboxsd-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle",Midnight Pulp
+https://midnightpulp-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle",The Luxury Collection
+https://ythls.armelin.one/channel/UCPSAhGSmkgDHWj_z8SWYdjw.m3u8
+#EXTINF:-1 group-title="Lifestyle",Luxe TV
+https://luxe-tv-haute-couture-1-be.samsung.wurl.tv/playlist.m3u8
+
+############### TECH & GAMING ###############
+
+#EXTINF:-1 group-title="Tech & Gaming",ESTV
+https://ythls.armelin.one/channel/UC2eBLQDOvdvhN0Y0l1YHUKQ.m3u8
+#EXTINF:-1 group-title="Tech & Gaming",IGN
+https://ythls.armelin.one/channel/UCKy1dAqELo0zrOtPkf0eTMw.m3u8
+#EXTINF:-1 group-title="Tech & Gaming",GameSpot
+https://ythls.armelin.one/channel/UCbu2SsF-Or3Rsn3NxqODImw.m3u8
+#EXTINF:-1 group-title="Tech & Gaming",CNET
+https://ythls.armelin.one/channel/UCOmcA3f_RrH6b9NmcNa4tdg.m3u8
+#EXTINF:-1 group-title="Tech & Gaming",The Verge
+https://ythls.armelin.one/channel/UCddiUEpeqJcYeBxX1IVBKvQ.m3u8
+
+############### BIEN-ÊTRE & YOGA ###############
+
+#EXTINF:-1 group-title="Bien-être",Yoga Studio
+https://ythls.armelin.one/channel/UCcox27Fd8H7bxPxYr6ZkI6A.m3u8
+#EXTINF:-1 group-title="Bien-être",Mindfulness & Meditation
+https://mindfulness-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Bien-être",Fit TV
+https://ythls.armelin.one/channel/UCcQVdnAvXdL0aYw_vKZGKVQ.m3u8
+
+############### SPIRITUALITÉ & RELIGION ###############
+
+#EXTINF:-1 group-title="Religion",KTO (Catholique)
+https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
+#EXTINF:-1 group-title="Religion",EWTN Catholic
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="Religion",Vatican Media
+https://ythls.armelin.one/channel/UC7E-LYc1wivk33iyt5bR5zQ.m3u8
+
+############### SHOPPING & E-COMMERCE ###############
+
+#EXTINF:-1 group-title="Shopping",QVC
+https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
+#EXTINF:-1 group-title="Shopping",HSN
+https://hsn-onair-lin.amagi.tv/playlist.m3u8
+
+############### MÉTÉO ###############
+
+#EXTINF:-1 group-title="Météo",WeatherNation
+https://weathernationtv.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Météo",Weather Channel
+https://weather-twc-samsung-uk.amagi.tv/playlist.m3u8
+
+############### BONUS - PLUTO TV CHANNELS ###############
+
+#EXTINF:-1 group-title="Pluto TV",Pluto TV Cinema
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8
+#EXTINF:-1 group-title="Pluto TV",Pluto TV Movies
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b4a88250852e002ff0ad/master.m3u8
+#EXTINF:-1 group-title="Pluto TV",Pluto TV Drama
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b71a86c7e243cea4eba6/master.m3u8
+#EXTINF:-1 group-title="Pluto TV",Pluto TV Action
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b56de04dd2d4123df9e4/master.m3u8
+#EXTINF:-1 group-title="Pluto TV",Pluto TV Sci-Fi
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7c2d90e6b0d4b6c5267/master.m3u8
+#EXTINF:-1 group-title="Pluto TV",Pluto TV Horror
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b83eb3546e7f68853434/master.m3u8
+#EXTINF:-1 group-title="Pluto TV",Pluto TV Romance
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b20a249444e05d09d0ba/master.m3u8
