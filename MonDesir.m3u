@@ -1,513 +1,1180 @@
 #EXTM3U
-#EXTM3U
+#EXTINF:-1,[COLOR yellow]--- SPORTS 1 ---[/COLOR]
+http://0.0.6.0:1234
+#EXTINF:-1,ARABIC-BAHRAIN SPORTS
+rtmp://alayam.netromedia.net/btv3/btv3
+#EXTINF:-1,ARABIC-BEIN SPORT 1
+rtmp://$OPT:rtmp-raw=rtmp://95.168.199.245:1935/live playpath=bns1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z
+#EXTINF:-1,ARABIC-BEIN SPORT 2
+rtmp://$OPT:rtmp-raw=rtmp://95.168.199.245:1935/live playpath=bns2 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z
+#EXTINF:-1,ARABIC-beIN Sport 2
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport2/sport2/sport2.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,ARABIC-BEIN SPORT 3
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.103:1935/live playpath=bns3 pageUrl=http://www.flashtv.co/loboicaperucita token=%ZZri(nKa@#Z
+#EXTINF:-1,ARABIC-beIN Sport 3
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport3/sport3/sport3.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,ARABIC-beIN Sport 4
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport4/sport4/sport4.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,ARABIC-beIN Sport 5
+http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport5/sport5/sport5.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,ARABIC-beIN Sport 6
+http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport6/sport6/sport6.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,ARABIC-BEIN SPORT 7
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=bns7 pageUrl=http://www.flashtv.co/loboicaperucita token=%ZZri(nKa@#Z
+#EXTINF:-1,ARABIC-beIN Sport 7 works or not
+http://hls01-07.az.myvideo.az/hls-live/livepkgr/sport7/sport7/sport7.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,ARABIC-beIN Sport 8 works or not
+http://hls01-07.az.myvideo.az/hls-live/livepkgr/sport8/sport8/sport8.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,ARABIC-MBC Pro Sports 1
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8
+#EXTINF:-1,ARABIC-MBC Pro Sports 2
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_definst_/live.m3u8
+#EXTINF:-1,ARABIC-MBC Pro Sports 3
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_definst_/live.m3u8
+#EXTINF:-1,ARABIC-MBC Pro Sports 4
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live.m3u8
+#EXTINF:-1,BMW CHANNEL Italia mms
+mms://100automoto.tv/bmw
+#EXTINF:-1,BRASIL-ESPN BRASIL
+rtmp://31.204.153.70/live/master06
+#EXTINF:-1,BRASIL-ESPN+
+rtmp://31.204.128.74/live/master27
+#EXTINF:-1,BRASIL-FOX SPORTS
+rtmp://31.204.153.72/live/fsb
+#EXTINF:-1,BRASIL-SKY BRASIL?
+rtmp://31.204.153.70/live/master05
+#EXTINF:-1,BRASIL-SPORTS Mais
+rtmp://31.204.153.70/live/sportsmais
+#EXTINF:-1,BRASIL-TV Pocos - Sports
+rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp
+#EXTINF:-1,BT Sport 1
+rtmp://$OPT:rtmp-raw=rtmp://80.82.65.59:443/liverepeater playpath=13 live=1 pageUrl=http://popeoftheplayers.pw/ token=#atd%#$ZH timeout=15
+#EXTINF:-1,BT Sport 2
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=15 live=1 pageUrl=http://popeoftheplayers.pw/ token=#atd%#$ZH timeout=15
+#EXTINF:-1,BULGAR-BULSAT-Nova Sport
+http://w1eu.drundoo.com:1935/DrundooDVR/_definst_/smil:74010166-8ebf-4a14-9e8d-7a6e90072611.smil/hasbahca.m3u8
+#EXTINF:-1,Czech-O Sport
+http://212.79.96.134:8014/
+#EXTINF:-1,Dubai Racing (UAE)
+http://cdnehlsdubairacing2.endavomedia.com/smil:dmilivedubairacing2.smil/playlist.m3u8
+#EXTINF:-1,ENG-Classic Goals
+rtsp://46.249.213.93/broadcast/classicgoals-tablet.3gp
+#EXTINF:-1,ENG-Climb On
+rtsp://46.249.213.93/broadcast/climbon-tablet.3gp
+#EXTINF:-1,ENG-Drift 4 Ever
+rtsp://46.249.213.93/broadcast/drift4ever-tablet.3gp
+#EXTINF:-1,ENG-Ghetto Kid
+rtsp://46.249.213.93/broadcast/ghettokid-tablet.3gp
+#EXTINF:-1,ENG-MMA BAY TV
+rtmp://extondemand.livestream.com:80/ondemand/trans/dv10/mogulus-user-files/chmmabaytv/2010/09/12/d9fbeee7-79aa-4ec2-98d2-1f1f168b91a3
+#EXTINF:-1,ENG-Outdoor Sport
+http://www.brdog.net/brdog_stv/sports/outdoor_sport.asx
+#EXTINF:-1,Espn Uk
+rtmp://$OPT:rtmp-raw=rtmp://95.168.199.241:1935/live playpath=espnuk live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=14
+#EXTINF:-1,EX-YUG-SPORT KLUB 2
+http://91.187.113.203:10030/
+#EXTINF:-1,EX-YUG-Sportskool
+rtmp://204.107.26.252:8086/live/686.high.stream
+#EXTINF:-1,FightBox
+http://stream1.zoovision.com//livespi/fightbox/playlist.m3u8
+#EXTINF:-1,GREEK-TILESPORT
+http://tv1.streampulse.eu:1935/tilesport/movie1/live.m3u8
+#EXTINF:-1,INDONESIA-Berita Satu Sport HD
+http://beritasatulive-lh.akamaihd.net/i/b1sport_1@121529/index_720_av-p.m3u8
+#EXTINF:-1,INDONESIA-Berita Satu Sport SD
+http://beritasatulive-lh.akamaihd.net/i/b1sport_1@121529/index_360_av-p.m3u8
+#EXTINF:-1,ITALIA-Sky Calcio
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.195:1935/live playpath=amsportmechannel4 live=1 pageUrl=http://www.flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=15
+#EXTINF:-1,ITALIA-Sky Sport 1
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.195:1935/live playpath=amsportmechannel1 live=1 pageUrl=http://www.flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=15
+#EXTINF:-1,ITALIA-Sky Sport 2
+rtmp://$OPT:rtmp-raw=rtmp://95.168.199.241:1935/live playpath=amsportmechannel2 live=1 pageUrl=http://www.flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=15
+#EXTINF:-1,ITALIA-Sky Sport 24
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.195:1935/live playpath=amsportmechannel5 live=1 pageUrl=http://www.flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=15
+#EXTINF:-1,ITALIA-Sky Sport 3
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.195:1935/live playpath=amsportmechannel3 live=1 pageUrl=http://www.flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=15
+#EXTINF:-1,Kanal Sports
+http://lswb-de-08.servers.octoshape.net:1935/live/kanalsport_2000k/HD.m3u8?
+#EXTINF:-1,KOREA - MFS Golf
+rtmp://lm01.everyon.tv:1935/ptv/pld58
+#EXTINF:-1,Moldova Sport
+http://sportmoldova.web.tvbox.md
+#EXTINF:-1,MOTOR SPORT
+http://motorsport.hopto.org:8080/
+#EXTINF:-1,NTV Football 1
+http://193.232.151.135/hls-live/livepkgr/_1040_/1040/1040-70.m3u8
+#EXTINF:-1,Poker
+http://195.154.188.161/hls/pokerhd.m3u8
+#EXTINF:-1,RUS-Nash Futbol rtmp
+rtmp://iptv.sat-elit.net/iptv/531
+#EXTINF:-1,RUS-NTV Basketbol rtmp
+rtmp://iptv.sat-elit.net/iptv/529
+#EXTINF:-1,RUS-NTV Futbol 2 rtmp
+rtmp://iptv.sat-elit.net/iptv/530
+#EXTINF:-1,RUS-NTV Futbol rtmp
+rtmp://iptv.sat-elit.net/iptv/124
+#EXTINF:-1,RUS-NTV Sport rtmp
+rtmp://iptv.sat-elit.net/iptv/123
+#EXTINF:-1,RUS-Outdoor Channel rtmp
+rtmp://iptv.sat-elit.net/iptv/119
+#EXTINF:-1,RUS-Rus.Extrim rtmp
+rtmp://iptv.sat-elit.net/iptv/533
+#EXTINF:-1,Serbia_Croatia-EUROSPORT
+http://83.139.104.123/Content/HLS/Live/Channel(eurosport)/Stream(03)/index.m3u8
+#EXTINF:-1,Serbia_Croatia-EUROSPORT 2
+http://83.139.104.123/Content/HLS/Live/Channel(eurosport_2)/Stream(03)/index.m3u8
+#EXTINF:-1,Serbia_Croatia-EXTREME SPORTS
+http://83.139.104.123/Content/HLS/Live/Channel(extreme_sports)/Stream(03)/index.m3u8
+#EXTINF:-1,Serbia_Croatia-FIGHT CHANNEL
+http://83.139.104.123/Content/HLS/Live/Channel(fight_channel)/Stream(03)/index.m3u8
+#EXTINF:-1,Serbia_Croatia-SPORTSKA TV
+http://83.139.104.123/Content/HLS/Live/Channel(sportska_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,SPAIN-FOX SPORTS:
+rtmp://wdc.cxnlive.com/live/foxsd.stream
+#EXTINF:-1,SPAIN-TyC Sports HD:
+rtmp://sl100tb.cxnlive.com/live/tyc.stream
+#EXTINF:-1,SPORT TIME TV 1HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200
+#EXTINF:-1,SPORT TIME TV 1HQ
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
+#EXTINF:-1,SPORT TIME TV 2HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
+#EXTINF:-1,SPORT TIME TV 2HQ
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
+#EXTINF:-1,SPORT TIME TV 3HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800
+#EXTINF:-1,SPORT TIME TV 3HQ
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
+#EXTINF:-1,SPORT TIME TV 4HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_800
+#EXTINF:-1,SPORT TIME TV 4HQ
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
+#EXTINF:-1,SPORT TIME TV 5HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_800
+#EXTINF:-1,SPORT TIME TV 5HQ Deutsch
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
+#EXTINF:-1,SPORT TIME TV 6HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_800
+#EXTINF:-1,SPORT TIME TV7 HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_800
+#EXTINF:-1,SPORT TIME TV7 HQ
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
+#EXTINF:-1,Sport5 1 (Israel)
+rtmp://$OPT:rtmp-raw=rtmp://s5-s.nsacdn.com:1935/sport5_Live1Repeat/Live1_1 swfUrl=http://playern.sport5.co.il/Plugins/RTMPPlugin.swf pageUrl=http://playern.sport5.co.il/Player.aspx?clipId=Live1&Type=live
+#EXTINF:-1,Sports Night
+rtmp://$OPT:rtmp-raw=rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD
+#EXTINF:-1,Sports Night HD
+rtmp://$OPT:rtmp-raw=rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
+#EXTINF:-1,Sports Tonight UK
+rtmp://$OPT:rtmp-raw=rtmp://freeview.fms.visionip.tv/live playpath=sports_tonight-sports_tonight-live-25f-16x9-SD?ref=www.sportstonightlive.com&USER=STL_0001 swfUrl=http://embeddedplayer.visionip.tv/data/swf/f22ee95bcec532c04146635a1a1adf00559/player.swf
+#EXTINF:-1,SPORTS-1
+http://193.232.151.135/hls-live/livepkgr/_1073_/1073/1073-70.m3u8
+#EXTINF:-1,SPORTS-2
+http://193.232.151.135/hls-live/livepkgr/_1031_/1031/1031-70.m3u8
+#EXTINF:-1,SPORTS-3
+http://193.232.151.135/hls-live/livepkgr/_1032_/1032/1032-70.m3u8
 
-############### ACTUALITÉS FRANCE ###############
+#EXTINF:-1,SPORTS-5
+http://193.232.151.135/hls-live/livepkgr/_1025_/1025/1025-70.m3u8
+#EXTINF:-1,sportsnet 1 usa hd
+http://rogerslive-i.akamaihd.net/hls/live/202803/event/index.m3u8
+#EXTINF:-1,sportsnet 2 usa hd
+http://rogerslive-i.akamaihd.net/hls/live/202799/event/index.m3u8?sd=10&rebase=on
+#EXTINF:-1,sportsnet 3 usa hd
+http://rogerslive-i.akamaihd.net/hls/live/202802/event/index.m3u8?sd=10&rebase=on
+#EXTINF:-1,sportsnet 4 usa hd
+http://rogerslive-i.akamaihd.net/hls/live/202801/event/index.m3u8?sd=10&rebase=on
+#EXTINF:-1,Sportsnet East
+http://rogerslive-i.akamaihd.net/hls/live/202800/event/007.m3u8
+#EXTINF:-1,Sportsnet Pacific
+http://rogerslive-i.akamaihd.net/hls/live/202802/event/007.m3u8
+#EXTINF:-1,Sportsnet West
+http://rogerslive-i.akamaihd.net/hls/live/202801/event/007.m3u8
+#EXTINF:-1,TileSport TV
+rtmp://tv1.streampulse.eu/tilesport/movie1
+#EXTINF:-1,TRACE SPORTS
+rtsp://46.249.213.87/broadcast/tracetvsports-tablet.3gp
+#EXTINF:-1,TSN 1
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live playpath=tsn1x live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=15
+#EXTINF:-1,TSN 2
+rtmp://$OPT:rtmp-raw=rtmp://95.168.199.245:1935/live playpath=tsn2x live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=15
+#EXTINF:-1,TURK-a SPOR
+http://rtmp.turkuvazgroup.net/aspor/aspor3/HasBahCa.m3u8
+#EXTINF:-1,TURK-BURSASPOR TV
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/hasbahca.m3u8
+#EXTINF:-1,Turki-Eurosport
+http://hls01-09.az.myvideo.az/hls-live/livepkgr/eurosport/eurosport/eurosport.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,Turki-Eurosport 2
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/eurosport2/eurosport2/eurosport2.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,TURK-NTV SPOR
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/ntvspor/ntvspor/ntvspor.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,TURK-TRT SPOR
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/trt3/trt3/trt3.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,USA-BASKET UNI.(Arizona)
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Los Angeles)
+http://xrxs.net/video/live-p12losa-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Moutain)
+http://xrxs.net/video/live-p12moun-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Oregon)
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Washington)
+http://xrxs.net/video/live-p12wash-2328.m3u8
+#EXTINF:-1,Willow Cricket
+rtmp://$OPT:rtmp-raw=rtmp://80.82.78.15:443/liverepeater playpath=38 live=1 pageUrl=http://popeoftheplayers.pw/Vd?u#bt!25 timeout=15 token=#atd%#$ZH timeout=15
 
-#EXTINF:-1 group-title="Actualités France",franceinfo
-https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels/fr/franceinfo.m3u8
-#EXTINF:-1 group-title="Actualités France",France 24 Français
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
-#EXTINF:-1 group-title="Actualités France",BFM TV
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8
-#EXTINF:-1 group-title="Actualités France",LCI
-https://live-lci.tf1.fr/lci/lci-hd-index.m3u8
-#EXTINF:-1 group-title="Actualités France",CNews
-https://live.creacast.com/cnews/smil:cnews.smil/playlist.m3u8
-#EXTINF:-1 group-title="Actualités France",BFM Business
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8
-#EXTINF:-1 group-title="Actualités France",Public Sénat
-https://live.publicsenat.fr/live/stream/playlist.m3u8
-#EXTINF:-1 group-title="Actualités France",LCP
-https://live.lcp.fr/live/stream/playlist.m3u8
-#EXTINF:-1 group-title="Actualités France",BFM Paris
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8
-#EXTINF:-1 group-title="Actualités France",BFM Lyon
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8
-#EXTINF:-1 group-title="Actualités France",Euronews Français
-https://rakuten-euronews-10-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Actualités France",CGTN Français
-https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+#EXTINF:-1,[COLOR yellow]--- SPORTS 2 ---[/COLOR]
+http://0.0.6.0:1234
+#EXTINF:-1,FRENCH : BEIN SPORT 1 FR HD
+http://iptvservice.ddns.net:8000/live/bruno/bruno/482.m3u8
+#EXTINF:-1,FRENCH : BEIN SPORT 2 FR HD
+http://iptvservice.ddns.net:8000/live/bruno/bruno/483.m3u8
+#EXTINF:-1,FRENCH : BEIN SPORT 3 FR HD
+http://iptvservice.ddns.net:8000/live/bruno/bruno/484.m3u8
+#EXTINF:-1,FRENCH : BEIN SPORT 4 FR HD
+http://iptvservice.ddns.net:8000/live/bruno/bruno/2739.m3u8
 
-############### ACTUALITÉS INTERNATIONALES ###############
+#EXTINF:0,BEIN SPORT HD1
+http://bit.ly/1DIYT9z
+#EXTINF:0,BEIN SPORT HD2
+http://bit.ly/1gg44Je
+#EXTINF:0,BEIN SPORT HD3
+http://bit.ly/1LNxVpk
+#EXTINF:0,BEIN SPORT HD4
+http://bit.ly/1InbBvD
+#EXTINF:0,BEIN SPORT HD5
+http://bit.ly/1MsnRBp
+#EXTINF:0,BEIN SPORT HD6
+http://bit.ly/1MsnV3Y
+#EXTINF:0,BEIN SPORT HD7
+http://bit.ly/1KtviFX
+#EXTINF:0,BEIN SPORT HD9
+http://bit.ly/1InbJeP
+#EXTINF:0,BEIN SPORT HD10
+http://bit.ly/1OKLQL9
+#EXTINF:0,BEIN SPORT HD11
+http://bit.ly/1ettAc1
+#EXTINF:0,BEIN SPORT HD12
+http://bit.ly/1gg4Iqj
+#EXTINF:0,BEIN SPORT HD12
+http://bit.ly/1eU81le
+#EXTINF:0,BEIN SPORT HD14
+http://bit.ly/1D1Y80K
+#EXTINF:0,BEIN SPORT HD15
+http://bit.ly/1ettMbf
+#EXTINF:0,SKY SPORT HD2
+http://bit.ly/1gb6VTe
+#EXTINF:0,SKY SPORT HD3
+http://bit.ly/1KRMcyu
+#EXTINF:0,SKY SPORT HD4
+http://bit.ly/1SQyenw
+#EXTINF:0,SKY SPORT HD5
+http://bit.ly/1MNKpO0
+#EXTINF:0,BT SPORT HD1
+http://bit.ly/1MNKqRW
+#EXTINF:0,BT SPORT HD2
+http://bit.ly/1MNKrFF
+#EXTINF:0,PREMIER CALCIO
+http://bit.ly/1MRGZGN
+#EXTINF:0,SKY SPORT 24
+http://bit.ly/1JKAClv
+#EXTINF:0,FOX SPORT HD
+http://bit.ly/1IBtNYY
+#EXTINF:0,SKY SPORT HD
+http://bit.ly/1KtLbz8
+#EXTINF:0,BT SPORT HD1
+http://bit.ly/1MvMI8m
+#EXTINF:0,SETANTA SPORT HD
+http://bit.ly/1U28xNX
+#EXTINF:0,MOTORS TV
+http://bit.ly/1I4Fbaa
+#EXTINF:0,EUROSPORT
+http://bit.ly/1S7pMQj
+#EXTINF:0,TELL SPORT
+http://bit.ly/1Ktw7yO
+#EXTINF:0,EUROSPORT HD1
+http://bit.ly/1IpzkQu
+#EXTINF:0,SPORT TV PORTUGAL1
+http://bit.ly/1U28Fgu
+#EXTINF:0,SPORT TV PORTUGAL2
+http://bit.ly/1MRHjW6
+#EXTINF:0,SPORT TV PORTUGAL3
+http://bit.ly/1JpyrIj
+#EXTINF:0,SPORT TV PORTUGAL 4
+http://bit.ly/1etuyVV
+#EXTINF:0,SPORT TV PORTUGAL5
+http://bit.ly/1HUM5kg
+#EXTINF:0,EUROSPORT HD2
+http://bit.ly/1D1YXX8
+#EXTINF:0,CANAL+GOLF
+http://bit.ly/1I4Fxh4
+#EXTINF:0,CANAL+FOTBALL
+http://bit.ly/1MRHy3s
+#EXTINF:0,BEIN SPORT 1FR
+http://bit.ly/1D1Z6tS
+#EXTINF:0,BEIN SPORT 2FR
+http://bit.ly/1VIVMcV
+#EXTINF:0,ARENA SPORT 3
+http://bit.ly/1JpyMLg
+#EXTINF:0,ARENA SPORT 4
+http://bit.ly/1D5EKPX
+#EXTINF:0,ARENA SPORT 1
+http://bit.ly/1Msoj2h
+#EXTINF:0,ARENA SPORT 2
+http://bit.ly/1gg6d7R
+#EXTINF:0,MOVISTAR
+http://bit.ly/1InczrL
+#EXTINF:0,EUROSPORT BRITISH
+http://bit.ly/1I4FQsc
+#EXTINF:0,SKY SPORT CALCIO HD1
+http://bit.ly/1etvdqm
+#EXTINF:0,SPORTING TV
+http://bit.ly/1LNC3pn
+#EXTINF:0,SPORT VEOTBAL
+http://bit.ly/1D5EZKP
+#EXTINF:0,SUPER SPORT HD1
+http://bit.ly/1h7ph8k
+#EXTINF:0,SUPER SPORT HD2
+http://bit.ly/1OQlpUp
+#EXTINF:0,SUPER SPORT HD3
+http://bit.ly/1I3WTgh
+#EXTINF:0,SUPER SPORT HD4
+http://bit.ly/1LSLeDl
+#EXTINF:0,FOX SPORT USA
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/66.m3u8
+#EXTINF:0,SPORT USA1
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/68.m3u8
+#EXTINF:0,NBC GOLF USA
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/67.m3u8
+#EXTINF:0,SPORT USA2 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/69.m3u8
+#EXTINF:0,NBA USA
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/70.m3u8
+#EXTINF:0,NBC SPORT
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/73.m3u8
+#EXTINF: -1, ESPN LatinoamÈrica
+http://iptvmx.ddns.net/tutvguia/tutvguiaiptv/342.ch
+#EXTINF: -1, ESPN2Latinoamerica
+http://iptvmx.ddns.net/tutvguia/tutvguiaiptv/343.ch
+#EXTINF: -1, ESPN3 Latinoamerica
+http://iptvmx.ddns.net/tutvguia/tutvguiaiptv/344.ch
+#EXTINF: -1, Fox Sports Latinoamerica
+http://iptvmx.ddns.net/tutvguia/tutvguiaiptv/345.ch
+#EXTINF: -1, Fox sports2 Latinoamerica
+http://iptvmx.ddns.net/tutvguia/tutvguiaiptv/346.ch
+#EXTINF: -1, Fox sports3 Latinoamerica
+http://iptvmx.ddns.net/tutvguia/tutvguiaiptv/347.ch
+#EXTINF:0,Sky Sport F1 HD
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/36.ts
+#EXTINF:0,Sky Sport MotoGP HD
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/37.ts
+#EXTINF:0,EuroSport HD
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/38.ts
+#EXTINF:0,EuroSport 2 HD
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/39.ts
+#EXTINF:0,Bike Channel
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/326.ts
+#EXTINF:0,Rai Sport 1
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/243.ts
+#EXTINF:0,Rai Sport 2
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/244.ts
+#EXTINF:0,Milan Channel
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/41.ts
+#EXTINF:0,JUVENTUS TV
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/42.ts
+#EXTINF:0,Inter Channel
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/43.ts
+#EXTINF:0,Lazio Style Channel
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/44.ts
+#EXTINF:0,ROMA TV
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/45.ts
+#EXTINF:0,GAZZETTA TV
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/506.ts
+#EXTINF:0,Europort1
+http://212.51.156.151:3010
+#EXTINF:0,Europort2
+http://212.51.156.151:3000
+#EXTINF:0,SKY Sport24
+http://212.51.156.151:3013
+#EXTINF:0,SkyCalcio1
+http://212.51.146.19:4000
+#EXTINF:0,Sky Sport Plus
+http://212.51.146.19:4007
+#EXTINF:0,SKY Sport1
+http://212.51.156.151:3011
+#EXTINF:0,SKY Sport2
+http://109.202.195.76:5003
+#EXTINF:0,SKY Sport3
+http://109.202.195.76:5001
+#EXTINF:0,sky-sport-f1
+http://212.51.146.19:4004
+#EXTINF:0,Fox Sports
+http://109.202.195.76:5010
+#EXTINF:0,Sky Sport 1 HD
+http://62.210.248.96:11000/fagaj@sky.com_it/fagaj@sky.com_it/260.ch
+#EXTINF:0,Sky Sport 2 HD
+http://62.210.248.96:11000/fagaj@sky.com_it/fagaj@sky.com_it/261.ch
+#EXTINF:0,Sky Sport 24 HD
+http://62.210.248.96:11000/fagaj@sky.com_it/fagaj@sky.com_it/262.ch
+#EXTINF:0,Sky Sport 3 HD
+http://62.210.248.96:11000/fagaj@sky.com_it/fagaj@sky.com_it/263.ch
+#EXTINF:0,Sky SPort HD HD
+http://62.210.248.96:11000/fagaj@sky.com_it/fagaj@sky.com_it/278.ch
+#EXTINF:0,Sky Sport TG24 HD
+http://62.210.248.96:11000/fagaj@sky.com_it/fagaj@sky.com_it/279.ch
+#EXTINF:0,Sky Supercalcio HD
+http://62.210.248.96:11000/fagaj@sky.com_it/fagaj@sky.com_it/264.ch
 
-#EXTINF:-1 group-title="Actualités Internationales",France 24 English
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/france24eng_720p/playlist.m3u8
-#EXTINF:-1 group-title="Actualités Internationales",France 24 Arabic
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/france24ar_720p/playlist.m3u8
-#EXTINF:-1 group-title="Actualités Internationales",BBC News
-https://vs-hls-push-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title="Actualités Internationales",CNN International
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Actualités Internationales",Al Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 group-title="Actualités Internationales",Bloomberg TV
-https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
-#EXTINF:-1 group-title="Actualités Internationales",DW English
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 group-title="Actualités Internationales",Africanews
-https://rakuten-africanews-1-pt.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Actualités Internationales",Sky News
-https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
-#EXTINF:-1 group-title="Actualités Internationales",ABC News Live
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 group-title="Actualités Internationales",Euronews English
-https://rakuten-euronews-1-be.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Actualités Internationales",RT News
-https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:-1,[COLOR yellow]--- SPORTS 3 ---[/COLOR]
+http://0.0.6.0:1234
+#EXTINF:-1,AFRIKA_DIASPORA24 rtmp
+rtmp://diaspora24.tv:1935/diaspora24tv/diaspora24
+#EXTINF:-1,ARGENTINA 9
+http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/chunklist_b796000.m3u8
+#EXTINF:-1,AZTECA DEPORTES
+http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_1_av-p.m3u8
+#EXTINF:-1,Dubai Racing (Horses)
+http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1300000.m3u8
+#EXTINF:-1,EUROSPORT
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+#EXTINF:-1,EUROSPORT 1 ENG
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:-1,FIGHTER
+http://87.248.160.8/edge/smil:boet/playlist.m3u8
+#EXTINF:-1,FIGHTER
+http://hls.cn.ru/streaming/boets/16/tvrec/playlist.m3u8
+#EXTINF:-1,FIGHTER
+http://3.hls.bolshoe.tv/1/streaming/boets/tvrec/playlist.m3u8
+#EXTINF:-1,FUTBOL
+http://win.cdn.bonus-tv.ru/TVB8/football/playlist.m3u8
+#EXTINF:-1,FUTBOL 1 UKR
+http://109.254.93.19:81/udp/238.1.1.99:1234
+#EXTINF:-1,FUTBOL 2 UKR
+http://109.254.93.19:81/udp/238.1.1.100:1234
+#EXTINF:-1,IRIB VARZEST 9
+http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
+#EXTINF:-1,KANADA TVA SPORT
+rtmp://cp39414.live.edgefcs.net/live/event1@9756
+#EXTINF:-1,LIVE MOTOR SPORT
+http://motorsport.hopto.org:8081/
+#EXTINF:-1,MBC PROSPORT1
+http://intigral_live-lh.akamaihd.net/i/DPS3SPLITDXRAD150315_1@129126/index_512_av-p.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1,MBC PROSPORT2,
+http://intigral_live-lh.akamaihd.net/i/DPS3SPLFTHXTWN070315_1@129126/index_1200_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1,MBC SPORT HD 1,
+http://intigral_live-lh.akamaihd.net/i/DPS3CPCHILXAHL130215_1@135296/index_1200_av-b.m3u8
+#EXTINF:-1,MBC SPORT HD 3,
+http://intigral_live-lh.akamaihd.net/i/DPS3SPLSHOXTWN220315_1@301567/index_1200_av-b.m3u8
+#EXTINF:-1,MT4
+http://212.40.98.166/intstreams/mtva/mtv4live.smil/chunklist.m3u8
+#EXTINF:-1,NTV SPORT RUS
+http://3.hls.bolshoe.tv/1/streaming/ntvsport/tvrec/playlist.m3u8
+#EXTINF:-1,PAC 12 BY AREA
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:-1,Rai Sport 1
+http://212.162.68.163/raisport+
+#EXTINF:-1,REDE TV2
+rtmp://evp.mm.uol.com.br/redetv2/_definst_/redetv2
+#EXTINF:-1,RTRS SR
+http://parh.rtrs.tv:1935/tv/live/chunklist_1735900102.m3u8
+#EXTINF:-1,RTVE 1
+http://hlslive.rtve.es/LA1_LV3_IPH/master.m3u8
+#EXTINF:-1,RUS auto_plus
+http://3.hls.bolshoe.tv/1/streaming/auto_plus/tvrec/playlist.m3u8
+#EXTINF:-1,RUS futbol
+http://3.hls.bolshoe.tv/2/streaming/futbol/tvrec/playlist.m3u8
+#EXTINF:-1,SPORT 1 RUS
+http://87.245.214.43/streaming/sport1/16/tvrec/playlist.m3u8
+#EXTINF:-1,SPORTS MAX
+http://46.249.213.93/iPhone/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr497k.m3u8
+#EXTINF:-1,Sports Tonight UK
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD?ref=www.sportstonightlive.com&amp;USER=STL_0001
+#EXTINF:-1,SPORTS TV TURKEY
+http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
+#EXTINF:-1,SUPER SPOR
+http://92.222.205.40:8080/superlig
+#EXTINF:-1,TRT 1 HD
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1,Turki_Türkmenistan TURKMEN SPORT rtmp
+rtmp://217.174.227.20/webtv/ch004_sd
+#EXTINF:-1,Turki-Türkmen Türkmen Sport m3u8
+http://tv.online.tm/hls/ch004_md/index.m3u8
+#EXTINF:-1,TURK-SPORTS TV rtmp
+rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
+#EXTINF:-1,TVA SPORT
+http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/index_700_av-p.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1,Viasat Sport
+http://alturl.com/8wi4k
 
-############### CHAÎNES TNT FRANCE ###############
 
-#EXTINF:-1 group-title="France TNT",TF1
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/fr/tf1hd.m3u8
-#EXTINF:-1 group-title="France TNT",France 2
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/fr/france2hd.m3u8
-#EXTINF:-1 group-title="France TNT",France 3
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/fr/france3hd.m3u8
-#EXTINF:-1 group-title="France TNT",France 4
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/fr/france4hd.m3u8
-#EXTINF:-1 group-title="France TNT",France 5
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/fr/france5hd.m3u8
-#EXTINF:-1 group-title="France TNT",Arte
-https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-#EXTINF:-1 group-title="France TNT",M6
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/fr/m6hd.m3u8
-#EXTINF:-1 group-title="France TNT",C8
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/fr/c8hd.m3u8
-#EXTINF:-1 group-title="France TNT",W9
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/fr/w9hd.m3u8
-#EXTINF:-1 group-title="France TNT",TMC
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/fr/tmchd.m3u8
-#EXTINF:-1 group-title="France TNT",TFX
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/fr/tfxhd.m3u8
-#EXTINF:-1 group-title="France TNT",NRJ 12
-https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
-#EXTINF:-1 group-title="France TNT",CStar
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/fr/cstarhd.m3u8
-#EXTINF:-1 group-title="France TNT",Gulli
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/fr/gullihd.m3u8
-#EXTINF:-1 group-title="France TNT",TF1 Séries Films
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/fr/tf1seriesfilmshd.m3u8
-#EXTINF:-1 group-title="France TNT",6ter
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/fr/6terhd.m3u8
-#EXTINF:-1 group-title="France TNT",RMC Story
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/fr/rmcstoryhd.m3u8
-#EXTINF:-1 group-title="France TNT",RMC Découverte
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/fr/rmcdecouvertehd.m3u8
-#EXTINF:-1 group-title="France TNT",Chérie 25
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/fr/cherie25hd.m3u8
+#EXTINF:-1,[COLOR yellow]--- BEEIN SPORTS HD CHANNELS ---[/COLOR]
+http://0.0.6.0:1234
+#EXTINF:0,BeIn Sports 1 HD
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/2.ts
+#EXTINF:0,BeIn Sports 2 HD
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/1.ts
+#EXTINF:0,BeIn Sports 3 HD
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/4.ts
+#EXTINF:0,BeIn Sports 4 HD
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/5.ts
+#EXTINF:0,BeIn Sports 5 HD
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/6.ts
+#EXTINF:0,BeIn Sports 6 HD
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/7.ts
+#EXTINF:0,BeIn Sports 7 HD
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/8.ts
+#EXTINF:0,BeIn Sports 8 HD
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/9.ts
+#EXTINF:0,BeIn Sports 9 HD
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/10.ts
+#EXTINF:0,BeIn Sports 10 HD
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/11.ts
+#EXTINF:0,ARENA SPORT 1 HD HR
+acestream://93a77f0e2b74d2f8f11ad5a2a49d3ee347a8864b
+#EXTINF:0,ARENA SPORT 2 HD HR
+acestream://8bb233dd947c73ad6873f55a419784c2ac803cc3
+#EXTINF:0,ARENA SPORT 3 HD HR
+acestream://6ed12ba9bc5c244f41ddb44e3dfe0e27ccc797c1
+#EXTINF:0,ARENA SPORT 4 HD HR
+acestream://2acdd306d33e3454b200448a9ca3a808653ec23b
+#EXTINF:0,ARENA SPORT 5 HD HR
+acestream://cd042c51300eb693de3c85cb9894217db0000f90
+#EXTINF:0,SPORT TV 1 HD PT
+rtmp://area61.better-than.tv:1935/ANYTV_USR_SportTV_One/SportTV_One.sdp
+#EXTINF:0,SPORT TV 2 HD PT
+rtmp://area61.better-than.tv:1935/ANYTV_USR_SPORTTV2/SPORTTV2.sdp
+#EXTINF:0,SPORT TV 3 SD PT
+rtmp://area61.better-than.tv:1935/ANYTV_USR_SPORTTV3/SPORTTV3.sdp
 
-############### SPORT FOOTBALL ###############
+#EXTINF:-1,[COLOR yellow]--- SUPER SPORTS IPTV CHANNELS ---[/COLOR]
+http://0.0.6.0:1234
+#EXTINF:-1,Super Sport 1
+http://Enes-Hallstahammar:iptv@cdn.port0.org:81/supersport1
+#EXTINF:-1,Super Sport 2
+http://Enes-Hallstahammar:iptv@cdn.port0.org:81/supersport2
+#EXTINF:-1,Super Sport 3
+http://Enes-Hallstahammar:iptv@cdn.port0.org:81/supersport3
+#EXTINF:-1,Super Sport 4
+http://Enes-Hallstahammar:iptv@cdn.port0.org:81/supersport4
+#EXTINF:0, Super Sport 2
+http://balkanstream.com/stream/supersport2/mip001/25hsK6Sa9l
+#EXTINF:0, Super Sport 3
+http://balkanstream.com/stream/supersport3/mip001/25hsK6Sa9l
+#EXTINF:0, Super Sport 4
+http://balkanstream.com/stream/supersport4/mip001/25hsK6Sa9l
+#EXTINF:-1,AL:Supersport 1
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/445.ch
+#EXTINF:-1,AL:Supersport 2
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/446.ch
+#EXTINF:-1,AL:Supersport 3
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/447.ch
+#EXTINF:-1,AL:Supersport 4
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/448
 
-#EXTINF:-1 group-title="Sport Football",L'Équipe
-https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgkurt1/fd40b093-14dc-4d49-8ed9-5ec0dcb3e2e9/3.m3u8
-#EXTINF:-1 group-title="Sport Football",beIN Sports Xtra
-https://siloh.pluto.tv/lilo/production/bein/master.m3u8
-#EXTINF:-1 group-title="Sport Football",beIN Sports Xtra Español
-https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
-#EXTINF:-1 group-title="Sport Football",FIFA+
-https://ythls.armelin.one/channel/UCpcTrCXblq78GZrTUTLWeBw.m3u8
-#EXTINF:-1 group-title="Sport Football",OneFootball
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4451
-#EXTINF:-1 group-title="Sport Football",Ligue 1 TV
-https://ythls.armelin.one/channel/UCUj5h77Z0KcnK7FqMVNlFWQ.m3u8
-#EXTINF:-1 group-title="Sport Football",Real Madrid TV
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-#EXTINF:-1 group-title="Sport Football",FC Barcelona TV
-https://ythls.armelin.one/channel/UCjmFkU8kEIkqqLPjeGNPDnQ.m3u8
-#EXTINF:-1 group-title="Sport Football",DAZN UEFA Women's Champions League
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd
-#EXTINF:-1 group-title="Sport Football",SPORTITALIA
-https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:sportitalia.smil/playlist.m3u8
-#EXTINF:-1 group-title="Sport Football",GolTV Spain
-https://ythls.armelin.one/channel/UC6eS4_BCuBNbLOjfFVdQPTA.m3u8
-#EXTINF:-1 group-title="Sport Football",Super Sport Football
-https://ythls.armelin.one/channel/UCbT5kkBpqWs6wQWwVVnSQSw.m3u8
+#EXTINF:-1,[COLOR yellow]--- TSN HD SPORTS CHANNELS ---[/COLOR]
+http://0.0.6.0:1234
+#EXTINF:0,TSN 1
+http://4.31.30.159:9082
+#EXTINF:0,TSN 2
+http://4.31.30.159:9083
+#EXTINF:0,TSN 3
+http://4.31.30.159:9084
+#EXTINF:0,TSN 4
+http://4.31.30.159:9085
+#EXTINF:0,TSN 5
+http://4.31.30.159:9086
 
-############### SPORT BASKETBALL ###############
+#EXTINF:-1,[COLOR yellow]--- WORLD IPTV CHANNELS ---[/COLOR]
+http://0.0.6.0:1234
+#EXTINF:-1,[COLOR yellow]By tutorial-iptv-xbmc.blogspot.com[/B][/I][/COLOR]
+http://0.1.5.0:1224
+  
+ttp://aziptv.mine.nu:8000/live/bento/bento/95.m3u8
+#EXTINF:-1,FR: Bein Sport 2
+http://aziptv.mine.nu:8000/live/bento/bento/94.m3u8
+#EXTINF:-1,FR: Bein Sport 3
+http://aziptv.mine.nu:8000/live/bento/bento/93.m3u8
+#EXTINF:-1,Setanta Sports
+http://aziptv.mine.nu:8000/live/bento/bento/206.m3u8
+#EXTINF:-1,UK: BT Sport 1
+http://aziptv.mine.nu:8000/live/bento/bento/125.m3u8
+#EXTINF:-1,UK: BT Sport 2
+http://aziptv.mine.nu:8000/live/bento/bento/124.m3u8
+#EXTINF:-1,UK: Sky Sport 1
+http://aziptv.mine.nu:8000/live/bento/bento/123.m3u8
+#EXTINF:-1,UK: Sky Sport 2
+http://aziptv.mine.nu:8000/live/bento/bento/122.m3u8
+#EXTINF:-1,UK: Sky Sport 3
+http://aziptv.mine.nu:8000/live/bento/bento/121.m3u8
+#EXTINF:-1,UK: Sky Sport 4
+http://aziptv.mine.nu:8000/live/bento/bento/120.m3u8
+#EXTINF:-1,UK: Sky Sport 5
+http://aziptv.mine.nu:8000/live/bento/bento/119.m3u8
+#EXTINF:-1,DE: SKY SPORTS 1
+http://aziptv.mine.nu:8000/live/bento/bento/127.m3u8
+#EXTINF:-1,DE: SKY SPORTS 2
+http://aziptv.mine.nu:8000/live/bento/bento/126.m3u8
+#EXTINF:-1,SKY BUNDESLIGA 1
+http://aziptv.mine.nu:8000/live/bento/bento/252.m3u8
+#EXTINF:-1,FOX Sports1
+http://aziptv.mine.nu:8000/live/bento/bento/262.m3u8
+#EXTINF:-1,FOX Sports2
+http://aziptv.mine.nu:8000/live/bento/bento/263.m3u8
+#EXTINF:-1,FOX Sports3
+http://aziptv.mine.nu:8000/live/bento/bento/264.m3u8
+#EXTINF:-1,FOX Sports4
+http://aziptv.mine.nu:8000/live/bento/bento/265.m3u8
+#EXTINF:-1,FOX Sports5
+http://aziptv.mine.nu:8000/live/bento/bento/266.m3u8
 
-#EXTINF:-1 group-title="Sport Basketball",NBA TV
-https://ythls.armelin.one/channel/UCWNPXWkjKIrGIwEr1JKpP9g.m3u8
-#EXTINF:-1 group-title="Sport Basketball",FIBA Basketball
-https://ythls.armelin.one/channel/UCtInLE44FD1wKlFvLNsCIqg.m3u8
-#EXTINF:-1 group-title="Sport Basketball",EuroLeague Basketball
-https://ythls.armelin.one/channel/UCLifGmvWN5N-8a5v93RO2eg.m3u8
-#EXTINF:-1 group-title="Sport Basketball",Real Madrid Basketball
-https://rmtv.akamaized.net/hls/live/2043154/rmtv-es-web/master.m3u8
-#EXTINF:-1 group-title="Sport Basketball",LNB TV (Basket France)
-https://ythls.armelin.one/channel/UCWPHthMvgKYlWJ3_UHFvHdw.m3u8
 
-############### SPORT GÉNÉRAL ###############
 
-#EXTINF:-1 group-title="Sport Général",Eurosport 1
-https://ythls.armelin.one/channel/UCTh-UNCPC4JCxvjJPFCqPvg.m3u8
-#EXTINF:-1 group-title="Sport Général",Olympic Channel
-https://oc-linear-1-akamai-us.otl.cdn.olympicchannel.com/out/u/OC1_3.m3u8
-#EXTINF:-1 group-title="Sport Général",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 group-title="Sport Général",Motorsport TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4696
-#EXTINF:-1 group-title="Sport Général",Stadium
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 group-title="Sport Général",Tennis Channel
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Sport Général",Garage TV (Sport Auto)
-https://stream1.cinerama.uz/1258/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sport Général",Fuel TV
-https://fuel-tv-samsung-ca.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Sport Général",Edge Sport
-https://edgesportglobal-samsung-ca.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Sport Général",World Poker Tour
-https://wpt-samsung-ca.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Sport Général",beIN Sports Xtra N°2
-https://siloh.pluto.tv/lilo/production/bein/2/master.m3u8
-#EXTINF:-1 group-title="Sport Général",Outside TV+
-https://outsidetv-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1,beinHD_Sports_HD1
+http://37.187.24.177:80/badia/badia/699.ch
+#EXTINF:-1,beinHD_Sports_HD2
+http://37.187.24.177:80/badia/badia/700.ch
+#EXTINF:-1,beinHD_Sports_HD3
+http://37.187.24.177:80/badia/badia/701.ch
+#EXTINF:-1,beinHD_Sports_HD4
+http://37.187.24.177:80/badia/badia/702.ch
+#EXTINF:-1,beinHD_Sports_HD5
+http://37.187.24.177:80/badia/badia/703.ch
+#EXTINF:-1,beinHD_Sports_HD6
+http://37.187.24.177:80/badia/badia/704.ch
+#EXTINF:-1,beinHD_Sports_HD7
+http://37.187.24.177:80/badia/badia/705.ch
+#EXTINF:-1,beinHD_Sports_HD8
+http://37.187.24.177:80/badia/badia/706.ch
+#EXTINF:-1,beinHD_Sports_HD9
+http://37.187.24.177:80/badia/badia/707.ch
+#EXTINF:-1,beinHD_Sports_HD10
+http://37.187.24.177:80/badia/badia/708.ch
+#EXTINF:-1,beinHD_Sports_HD11
+http://37.187.24.177:80/badia/badia/709.ch
+#EXTINF:-1,beinHD_Sports_HD12
+http://37.187.24.177:80/badia/badia/710.ch
+#EXTINF:-1,beinHD_Sports_HD13
+http://37.187.24.177:80/badia/badia/711.ch
+#EXTINF:-1,beinHD_Sports_HD14
+http://37.187.24.177:80/badia/badia/712.ch
+#EXTINF:-1,beinHD_Sports_HD15
+http://37.187.24.177:80/badia/badia/713.ch
+#EXTINF:-1,beinHD_Sports_HD16
+http://37.187.24.177:80/badia/badia/714.ch
+#EXTINF:-1,beinHD Sport 1 FR
+http://37.187.24.177:80/badia/badia/715.ch
+#EXTINF:-1,beinHD Sport 2 FR
+http://37.187.24.177:80/badia/badia/716.ch
 
-############### SPORT RUGBY ###############
 
-#EXTINF:-1 group-title="Sport Rugby",FFR Rugby
-https://ythls.armelin.one/channel/UCY9T34qEaWVl4yLU2bX-bwg.m3u8
-#EXTINF:-1 group-title="Sport Rugby",World Rugby
-https://ythls.armelin.one/channel/UCVebdIVdZm_H8VciUsW7-QQ.m3u8
+#EXTINF:-1,[COLOR red][I][B]By tutorial-iptv-xbmc.blogspot.com[/B][/I][/COLOR]
 
-############### SPORT TENNIS & GOLF ###############
 
-#EXTINF:-1 group-title="Sport Tennis & Golf",Roland Garros
-https://ythls.armelin.one/channel/UCGTqLMKYE7_QYR7gHWxvabg.m3u8
-#EXTINF:-1 group-title="Sport Tennis & Golf",ATP Tour
-https://ythls.armelin.one/channel/UCbcxFkd6B9xUU54InHv4Zig.m3u8
-#EXTINF:-1 group-title="Sport Tennis & Golf",WTA Tennis
-https://ythls.armelin.one/channel/UCKfzWZUT5PLinUEha-lzRKA.m3u8
-#EXTINF:-1 group-title="Sport Tennis & Golf",PGA Tour Golf
-https://ythls.armelin.one/channel/UCWdh2JJsLNTEzJEYNJMZYIQ.m3u8
+#EXTINF:-1,[COLOR yellow]---★ International Sports Channels ★---[/COLOR]
+http://0.0.0.0:1234
 
-############### SPORT CYCLISME & COURSE ###############
+#EXTINF:-1, Sk1
+http://176.10.104.200:8080/sk1/mpegts
+#EXTINF:-1, Sk2
+http://176.10.104.200:8080/sk2/mpegts
+#EXTINF:-1, Sk3
+http://176.10.104.200:8080/sk3/mpegts
+#EXTINF:-1, Sk4
+http://176.10.104.200:8080/sk4/mpegts
+#EXTINF:-1, Sk5
+http://176.10.104.200:8080/sk5/mpegts
+#EXTINF:-1, Sk6
+http://176.10.104.200:8080/sk6/mpegts
 
-#EXTINF:-1 group-title="Sport Cyclisme",Tour de France
-https://ythls.armelin.one/channel/UCGgR_s3n63M5AxDXVCNk8dA.m3u8
-#EXTINF:-1 group-title="Sport Cyclisme",GCN+ Cycling
-https://ythls.armelin.one/channel/UCuTaETsuCOkJ0H_GAztWt0Q.m3u8
-#EXTINF:-1 group-title="Sport Course",Formula 1
-https://ythls.armelin.one/channel/UCB0iOtzfilebHCZiBMkBVTg.m3u8
-#EXTINF:-1 group-title="Sport Course",MotoGP
-https://ythls.armelin.one/channel/UCmi...qL7FMcKU.m3u8
-#EXTINF:-1 group-title="Sport Course",FIA WEC (24H Le Mans)
-https://ythls.armelin.one/channel/UCm3t2xPRsgFyH8-hkq8LhSw.m3u8
-#EXTINF:-1 group-title="Sport Course",NASCAR
-https://ythls.armelin.one/channel/UCgYFNq-9KoZqbbO3RYzNzSw.m3u8
 
-############### SPORT COMBAT ###############
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
-#EXTINF:-1 group-title="Sport Combat",WWE
-https://ythls.armelin.one/channel/UCJ5v_MCY6GNUBTO8-D3XoAg.m3u8
-#EXTINF:-1 group-title="Sport Combat",UFC
-https://ythls.armelin.one/channel/UCvgfXK4nTYKudb0rFR6noLA.m3u8
-#EXTINF:-1 group-title="Sport Combat",ONE Championship
-https://ythls.armelin.one/channel/UCiormkBf3jm6mfb7k0yPbKA.m3u8
-#EXTINF:-1 group-title="Sport Combat",Bellator MMA
-https://ythls.armelin.one/channel/UCjbkN_MgFHp2l5rcCuWgMkQ.m3u8
-#EXTINF:-1 group-title="Sport Combat",PFL MMA
-https://ythls.armelin.one/channel/UCRRGq4zKoFmk-4QC0yJMIxQ.m3u8
 
-############### DOCUMENTAIRES NATURE ###############
+#EXTINF:-1, MAT4
+http://origin4.tomsk.ertelecom.ru/content/public/r183698/track_3_2000/playlist.m3u8
 
-#EXTINF:-1 group-title="Documentaires Nature",National Geographic
-https://ythls.armelin.one/channel/UCpVm7bg6pXKo1Pr6k5kxG9A.m3u8
-#EXTINF:-1 group-title="Documentaires Nature",National Geographic Wild
-https://ythls.armelin.one/channel/UCg-rKnbVrOJHCbVBRCuWq5Q.m3u8
-#EXTINF:-1 group-title="Documentaires Nature",Discovery Channel
-https://ythls.armelin.one/channel/UCEdvpU2pFRCVqU6yIPyTpMQ.m3u8
-#EXTINF:-1 group-title="Documentaires Nature",Animal Planet
-https://ythls.armelin.one/channel/UCkQX_dZQ1KNZpKZwp3EviWw.m3u8
-#EXTINF:-1 group-title="Documentaires Nature",BBC Earth
-https://ythls.armelin.one/channel/UCwmZiChSryoWQCZMIQezgTg.m3u8
-#EXTINF:-1 group-title="Documentaires Nature",Smithsonian Channel
-https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Documentaires Nature",Love Nature
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="Documentaires Nature",WaterBear (Nature)
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbearglobal-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="Documentaires Nature",NASA TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
-############### DOCUMENTAIRES HISTOIRE & SCIENCE ###############
 
-#EXTINF:-1 group-title="Documentaires Histoire",History Channel
-https://ythls.armelin.one/channel/UCyMwkXWGqkIWR0BV9cWGpCw.m3u8
-#EXTINF:-1 group-title="Documentaires Histoire",Timeline (Histoire)
-https://ythls.armelin.one/channel/UC88lvyJe7aHZmcvzvubDFRg.m3u8
-#EXTINF:-1 group-title="Documentaires Histoire",Real Crime
-https://ythls.armelin.one/channel/UCqiurOI75LL5yFh8cPIh_dw.m3u8
-#EXTINF:-1 group-title="Documentaires Science",Science Channel
-https://ythls.armelin.one/channel/UCvJJ_dzjViJCoLf5uKUTwoA.m3u8
-#EXTINF:-1 group-title="Documentaires Science",Spark (Science)
-https://ythls.armelin.one/channel/UCgDOV_AxqbEXBzEDMg8kzXA.m3u8
-#EXTINF:-1 group-title="Documentaires Science",Real Science
-https://ythls.armelin.one/channel/UCqJ_vZSU7N7hOWMjJrxRNmg.m3u8
 
-############### VOYAGE & EXPLORATION ###############
+#EXTINF:-1, FOX SPORTS 1 AU HD
+http://162.248.6.122:8080
+#EXTINF:-1, FOX SPORTS 2 AU HD
+http://162.248.6.122:8081
+#EXTINF:-1, FOX SPORTS 3 AU HD
+http://162.248.6.122:8082
+#EXTINF:-1, FOX SPORTS 4 AU HD
+http://162.248.6.122:8084
 
-#EXTINF:-1 group-title="Voyage",Travel XP
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Voyage",Travelxp 4K
-https://d2u0pom8xsshr4.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 group-title="Voyage",Tastemade Travel
-https://tastemadetravel-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Voyage",Museum TV
-https://ythls.armelin.one/channel/UCQBJPiZ_mBvMqDp82IRpwcw.m3u8
-#EXTINF:-1 group-title="Voyage",Gusto TV
-https://gustotv-samsung-ca.samsung.wurl.tv/playlist.m3u8
 
-############### CULTURE & ARTS ###############
 
-#EXTINF:-1 group-title="Culture",Arte Concert
-https://ythls.armelin.one/channel/UCd0kLuxASKQ1cvJbxFF9Vug.m3u8
-#EXTINF:-1 group-title="Culture",Mezzo Live HD
-https://ott.tv5monde.com/Content/HLS/Live/channel(mezzo)/index.m3u8
-#EXTINF:-1 group-title="Culture",Classical KUSC
-https://classicalkusc-kuscfm.streamguys1.com/kuscfm-live-mp3
-#EXTINF:-1 group-title="Culture",Stingray Classica
-https://ott-channels.stingray.com/stingray/classica/master.m3u8
-#EXTINF:-1 group-title="Culture",Fashion TV
-https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-############### MUSIQUE ###############
 
-#EXTINF:-1 group-title="Musique",Trace Urban
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Musique",Trace Tropical
-https://lightning-tracetropical-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Musique",MTV Biggest Pop
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8
-#EXTINF:-1 group-title="Musique",MTV Classic
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8
-#EXTINF:-1 group-title="Musique",MTV Spankin New
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080c/master.m3u8
-#EXTINF:-1 group-title="Musique",VH1 Classic
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecbc673430e0007e4ed0b/master.m3u8
-#EXTINF:-1 group-title="Musique",Vevo Pop
-https://5dcc6a54d90e8c5974923990-s-4.ssai.zype.com/5dcc6a54d90e8c5974923990-s-4/manifest.m3u8
-#EXTINF:-1 group-title="Musique",Vevo Hip Hop
-https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
-#EXTINF:-1 group-title="Musique",Vevo R&B
-https://5dcc6aadc6d2a874c2942ea1-s-2.ssai.zype.com/5dcc6aadc6d2a874c2942ea1-s-2/manifest.m3u8
-#EXTINF:-1 group-title="Musique",Clubbing TV
-https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Musique",Deluxe Music
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 group-title="Musique",The K-Pop
-https://kpop-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1, HI Sport HD Thailand
+http://nakorn4.dyndns.tv:1935/live/sdlive.stream/playlist.m3u8
+#EXTINF:-1, Viasat Sport Baltic
+http://88.223.26.13:4022/udp/239.255.19.46:26495
+#EXTINF:-1, Futbol 1 Russia
+http://193.106.211.2:1234/udp/225.1.3.103:4001?box_mac=32706s021977&box_client=lgzoom
 
-############### ENFANTS ###############
 
-#EXTINF:-1 group-title="Enfants",Cartoon Network
-https://playout.3qsdn.com/f45cfd18-db45-4b7d-ba66-5929f9a02b60/stream.m3u8
-#EXTINF:-1 group-title="Enfants",Boomerang
-https://playout.3qsdn.com/d15fa1e3-af9e-4bf2-a278-77ac0c9f0b43/stream.m3u8
-#EXTINF:-1 group-title="Enfants",Pluto TV Kids
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00076d7c97/master.m3u8
-#EXTINF:-1 group-title="Enfants",PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 group-title="Enfants",Nickelodeon
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8
-#EXTINF:-1 group-title="Enfants",Baby TV
-https://ythls.armelin.one/channel/UCe_5RaWCc1feIwEknv2lZ6g.m3u8
-#EXTINF:-1 group-title="Enfants",Toon Goggles
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
-#EXTINF:-1 group-title="Enfants",HappyKids
-https://happykids-happykids-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Enfants",Pocket Watch
-https://pocketwatch-pocketwatch-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Enfants",Ryan and Friends
-https://ryanandfriends-ryanand-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-############### FILMS & SÉRIES ###############
+#EXTINF:-1,[COLOR red][I][B]By tutorial-iptv-xbmc.blogspot.com[/B][/I][/COLOR]
 
-#EXTINF:-1 group-title="Films & Séries",Rakuten Action
-https://rakuten-action-14-be.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Films & Séries",Rakuten Comedy
-https://rakuten-comedy-14-be.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Films & Séries",Rakuten Drama
-https://rakuten-drama-14-be.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Films & Séries",Rakuten Thriller
-https://rakuten-thriller-14-be.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Films & Séries",Rakuten Top Free
-https://rakuten-topfree-1-be.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Films & Séries",Dark Matter TV
-https://dmtv-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Films & Séries",FilmRise Action
-https://filmrise-filmriseaction-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Films & Séries",FilmRise Classic TV
-https://filmrise-filmriseclassictv-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Films & Séries",FilmRise Sci-Fi
-https://filmrise-filmrisescifi-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Films & Séries",The Asylum
-https://theasylum-theasylum-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Films & Séries",MovieSphere
-https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Films & Séries",Hell's Kitchen
-https://hellskitchen-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:1,Sky Sports 1 DE
+http://169.45.89.106:1935/app/sky1delsh/playlist.m3u8
+#EXTINF:1,Sky Sports 2 DE
+http://169.45.89.106:1935/app/sky2delsh/playlist.m3u8
+#EXTINF:-1,beIN Sport max 4
+http://169.45.89.106:1935/app/max4lsh/playlist.m3u8
+#EXTINF:-1,beIN Sport max 5
+http://169.45.89.106:1935/app/max5lsh/playlist.m3u8
+#EXTINF:-1,Eurosport 1
+http://169.45.89.106:1935/app/vesplsh/playlist.m3u8
+#EXTINF:-1,Eurosport 2
+http://169.45.89.106:1935/app/vesp2lsh/playlist.m3u8
+#EXTINF:-1,SkySport 1
+http://169.45.89.106:1935/app/skysports1lsh/playlist.m3u8
+#EXTINF:-1,SkySport 2
+http://169.45.89.106:1935/app/skysports2lsh/playlist.m3u8
+#EXTINF:-1,SkySport 3
+http://169.45.89.106:1935/app/skysports3lsh/playlist.m3u8
+#EXTINF:-1,SkySport 4
+http://169.45.89.106:1935/app/skysports4lsh/playlist.m3u8
+#EXTINF:-1,SkySport 5
+http://169.45.89.106:1935/app/skysports5lsh/playlist.m3u8
+#EXTINF:-1,BT Sport 1
+http://169.45.89.106:1935/app/btsports1lsh/playlist.m3u8
+#EXTINF:-1,BT Sport 2
+http://169.45.89.106:1935/app/btsports2lsh/playlist.m3u8
+#EXTINF:1, BT Sport ESPN
+http://169.45.89.106:1935/app/espnuklsh/playlist.m3u8
+#EXTINF:-1,Premier sports
+http://169.45.89.106:1935/app/vpremsplsh/playlist.m3u8
+#EXTINF:-1, beIN Sports 1 HD
+http://169.45.89.106:1935/app/bein1frlsh58/playlist.m3u8
+#EXTINF:-1, beIN Sports 2 HD
+http://169.45.89.106:1935/app/bein2frlsh/playlist.m3u8
+#EXTINF:-1, beIN Sports 3 HD
+http://169.45.89.106:1935/app/bein3frlsh/playlist.m3u8
+#EXTINF:-1,ArenaSport 1
+http://169.45.89.106:1935/app/arhd1lsh58/playlist.m3u8
+#EXTINF:-1,ArenaSport 2
+http://169.45.89.106:1935/app/arhd2lsh/playlist.m3u8
+#EXTINF:-1,ArenaSport 3
+http://169.45.89.106:1935/app/arhd3lsh58/playlist.m3u8
+#EXTINF:-1,ArenaSport 4
+http://169.45.89.106:1935/app/arhd4lsh/playlist.m3u8
+#EXTINF:-1,SportKlub 1
+http://169.45.89.106:1935/app/skhd1lsh/playlist.m3u8
+#EXTINF:-1,SportKlub 2
+http://169.45.89.106:1935/app/skhd2lsh/playlist.m3u8
+#EXTINF:-1,SportKlub 3
+http://169.45.89.106:1935/app/skhd3lsh/playlist.m3u8
 
-############### DIVERTISSEMENT ###############
 
-#EXTINF:-1 group-title="Divertissement",Comedy Central
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed3f5b10a5f000743fbe0/master.m3u8
-#EXTINF:-1 group-title="Divertissement",Fail Army
-https://failarmy-international-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Divertissement",The Pet Collective
-https://the-pet-collective-international-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Divertissement",People Are Awesome
-https://peopleareawesome-international-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Divertissement",Tastemade
-https://tastemade-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Divertissement",The Design Network
-https://thedesignnetwork-tdn-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Divertissement",Food52
-https://food52-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
-############### BELGIQUE ###############
 
-#EXTINF:-1 group-title="Belgique",RTBF La Une
-https://rtbf-vod.akamaized.net/hls/live/2005193/LaUne/master.m3u8
-#EXTINF:-1 group-title="Belgique",RTBF La Deux
-https://rtbf-vod.akamaized.net/hls/live/2005194/LaDeux/master.m3u8
-#EXTINF:-1 group-title="Belgique",RTBF La Trois
-https://rtbf-vod.akamaized.net/hls/live/2005195/LaTrois/master.m3u8
-#EXTINF:-1 group-title="Belgique",BX1
-https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:-1, Arena Sport 1 HD
+http://46.40.5.99:8000/arena_1_720
+#EXTINF:-1, Arena Sport 2 HD
+http://46.40.5.99:8000/arena_2_720
+#EXTINF:-1, Arena Sport 3 HD
+http://46.40.5.99:8000/arena_3_720
+#EXTINF:-1, Arena Sport 4 HD
+http://46.40.5.99:8000/arena_4_720
 
-############### SUISSE ###############
 
-#EXTINF:-1 group-title="Suisse",RTS Un
-https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
-#EXTINF:-1 group-title="Suisse",RTS Deux
-https://rtsc3video.akamaized.net/hls/live/2042838/c3video/3/playlist.m3u8
-#EXTINF:-1 group-title="Suisse",Léman Bleu
-https://livevideo.infomaniak.com/streaming/livecast/lemanbleu/playlist.m3u8
 
-############### CANADA ###############
 
-#EXTINF:-1 group-title="Canada",Télé-Québec
-https://teleqc.akamaized.net/hls/live/2085080/tq/index.m3u8
-#EXTINF:-1 group-title="Canada",ICI RDI
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-#EXTINF:-1 group-title="Canada",TV5 Québec Canada
-https://ott.tv5monde.com/Content/HLS/Live/channel(quebec)/index.m3u8
 
-############### AFRIQUE ###############
+#EXTINF:-1, Sport: K+1 HD Sport
+rtmp://216.185.103.158/live2//chSport1hd
+#EXTINF:-1, Sport: K+ PM HD Sport
+rtmp://216.185.103.158/live2//chSport2hd
+#EXTINF:-1, Sport:K+1 s1
+http://216.185.103.158:1935/live2/chSport1hd/playlist.m3u8
+#EXTINF:-1, Sport:K+1 s2
+http://199.189.110.20:1935/as99/chSport1hd/playlist.m3u8
+#EXTINF:-1, Sport: K+PM s1
+http://216.185.103.158:1935/live2/chSport2hd/playlist.m3u8
+#EXTINF:-1, Sport: K+PM s2
+http://199.189.110.20:1935/as99/chSport2hd/playlist.m3u8
+#EXTINF:-1,TRUE SPORT2 HD
+rtmp://216.185.103.158/live2//chthaipremier11
+#EXTINF:-1,TRUE SPORT3 HD
+rtmp://216.185.103.158/live2//chthaipremier31
 
-#EXTINF:-1 group-title="Afrique",2STV Sénégal
-https://live.2sgroup.net/2stv/2stv/playlist.m3u8
-#EXTINF:-1 group-title="Afrique",RTI 1 Côte d'Ivoire
-https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8
-#EXTINF:-1 group-title="Afrique",RTI 2 Côte d'Ivoire
-https://www.enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Afrique",Canal+ Afrique
-https://rakuten-canalplus-1-be.samsung.wurl.tv/playlist.m3u8
 
-############### TV5 MONDE ###############
 
-#EXTINF:-1 group-title="TV5 Monde",TV5 Monde Info
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
-#EXTINF:-1 group-title="TV5 Monde",TV5 Monde FBS
-https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
-#EXTINF:-1 group-title="TV5 Monde",TV5 Monde Europe
-https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
-#EXTINF:-1 group-title="TV5 Monde",TV5 Monde Asie
-https://ott.tv5monde.com/Content/HLS/Live/channel(asie)/index.m3u8
-#EXTINF:-1 group-title="TV5 Monde",TV5 Monde Pacifique
-https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/index.m3u8
+#EXTINF:1, SKY SPORTS 1
+rtmp://80.82.70.155/live/mys1 pageUrl=http://www.yocast.tv/
+#EXTINF:1, SKY SPORTS 1
+rtmp://80.82.64.171/live/s1 pageUrl=http://www.cast4u.tv/
+#EXTINF:1, SKY SPORTS 2
+rtmp://80.82.70.155/live/mys2 pageUrl=http://www.yocast.tv/
+#EXTINF:1, SKY SPORTS 2
+rtmp://80.82.64.171/live/s2 pageUrl=http://www.cast4u.tv/
+#EXTINF:1, SKY SPORTS 3
+rtmp://80.82.70.155/live/mys3 pageUrl=http://www.yocast.tv/
+#EXTINF:1, SKY SPORTS 3
+rtmp://80.82.64.171/live/s3 pageUrl=http://www.cast4u.tv/
+#EXTINF:1, SKY SPORTS 4
+rtmp://80.82.70.155/live/mys4 pageUrl=http://www.yocast.tv/
+#EXTINF:1, SKY SPORTS 4
+rtmp://80.82.64.171/live/s4 pageUrl=http://www.cast4u.tv/
+#EXTINF:1, SKY SPORTS 5/NEWS
+rtmp://80.82.70.155/live/mys5 pageUrl=http://www.yocast.tv/
+#EXTINF:1, SKY SPORTS 5/NEWS
+rtmp://80.82.64.171/live/s5 pageUrl=http://www.cast4u.tv/
+#EXTINF:1, SKY SPORTS F1
+rtmp://80.82.64.46/live/sf1 pageUrl=http://www.cast4u.tv/
+#EXTINF:1, BT SPORT 1
+rtmp://80.82.70.155/live/myb1 pageUrl=http://www.yocast.tv/
+#EXTINF:1, BT SPORT 1
+rtmp://80.82.64.171/live/b1 pageUrl=http://www.cast4u.tv/
+#EXTINF:1, BT SPORT 2
+rtmp://80.82.70.155/live/myb2 pageUrl=http://www.yocast.tv/
+#EXTINF:1, BT SPORT 2
+rtmp://80.82.64.171/live/b2 pageUrl=http://www.cast4u.tv/
+#EXTINF:1, BT/ESPN SPORT
+rtmp://80.82.70.155/live/luxsuperbtsespn pageUrl=http://www.yocast.tv/
+#EXTINF:1, BT SPORT EUROPE
+rtmp://80.82.70.155/live/mybeu pageUrl=http://www.yocast.tv/
 
-############### CHAÎNES INTERNATIONALES ###############
 
-#EXTINF:-1 group-title="International",RAI 1 (Italie)
-https://ythls.armelin.one/channel/UCx5hg8EfO23nYRnnVZrAqow.m3u8
-#EXTINF:-1 group-title="International",TVE Internacional (Espagne)
-https://rtvelivestream.akamaized.net/rtvesec/int/tvei_main.m3u8
-#EXTINF:-1 group-title="International",DW Deutsch
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 group-title="International",NHK World Japan
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 group-title="International",Russia Today
-https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
-#EXTINF:-1 group-title="International",TRT World
-https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="International",CGTN English
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 group-title="International",CGTN Arabic
-https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
-############### LIFESTYLE & CUISINE ###############
 
-#EXTINF:-1 group-title="Lifestyle",Fashion TV
-https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle",FashionBox
-https://fashionboxsd-fashionboxsd-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle",Midnight Pulp
-https://midnightpulp-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle",The Luxury Collection
-https://ythls.armelin.one/channel/UCPSAhGSmkgDHWj_z8SWYdjw.m3u8
-#EXTINF:-1 group-title="Lifestyle",Luxe TV
-https://luxe-tv-haute-couture-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1, Basketball Russia
+http://s2.edem.tv/iptv/CRNMZP2B9W3983/529/index.m3u8
 
-############### TECH & GAMING ###############
+#EXTINF:-1, Nova Sport 1
+http://213.81.153.241/live001/channel028_p3.stream/chunklist_w1268025928_DVR.m3u8
 
-#EXTINF:-1 group-title="Tech & Gaming",ESTV
-https://ythls.armelin.one/channel/UC2eBLQDOvdvhN0Y0l1YHUKQ.m3u8
-#EXTINF:-1 group-title="Tech & Gaming",IGN
-https://ythls.armelin.one/channel/UCKy1dAqELo0zrOtPkf0eTMw.m3u8
-#EXTINF:-1 group-title="Tech & Gaming",GameSpot
-https://ythls.armelin.one/channel/UCbu2SsF-Or3Rsn3NxqODImw.m3u8
-#EXTINF:-1 group-title="Tech & Gaming",CNET
-https://ythls.armelin.one/channel/UCOmcA3f_RrH6b9NmcNa4tdg.m3u8
-#EXTINF:-1 group-title="Tech & Gaming",The Verge
-https://ythls.armelin.one/channel/UCddiUEpeqJcYeBxX1IVBKvQ.m3u8
+#EXTINF:-1, Red Bull TV HD
+http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
 
-############### BIEN-ÊTRE & YOGA ###############
+#EXTINF:0, Digi Sport 1
+http://82.76.249.81/digiedge/digisport1ehq/index.m3u8?is=1&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0, Digi Sport 2
+http://82.76.249.81/digiedge/digisport2ehq/index.m3u8?is=2&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0, Digi Sport 3
+http://82.76.249.81/digiedge/digisport3ehq/index.m3u8?is=3&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0, Digi Sport 4
+http://82.76.249.81/digiedge/digisport4ehq/index.m3u8?is=49&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0, Eurosport 
+http://82.76.249.81/digiedge2/eurosportehq/index.m3u8?is=31&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0, Eurosport 2
+http://82.76.249.81/digiedge2/eurosport2ehq/index.m3u8?is=32&src=digi-online.ro&t=00000000000000000000000000000000
 
-#EXTINF:-1 group-title="Bien-être",Yoga Studio
-https://ythls.armelin.one/channel/UCcox27Fd8H7bxPxYr6ZkI6A.m3u8
-#EXTINF:-1 group-title="Bien-être",Mindfulness & Meditation
-https://mindfulness-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Bien-être",Fit TV
-https://ythls.armelin.one/channel/UCcQVdnAvXdL0aYw_vKZGKVQ.m3u8
 
-############### SPIRITUALITÉ & RELIGION ###############
+#EXTINF:-1, DIGI SPORT 1
+http://vurl.com/J6ggJ
+#EXTINF:-1, DIGI SPORT 2
+http://vurl.com/Z6BWJ
+#EXTINF:-1, DIGI SPORT 3
+http://vurl.com/Nkdoriano
+#EXTINF:-1, DIGI SPORT 4
+http://vurl.com/xkEyz
 
-#EXTINF:-1 group-title="Religion",KTO (Catholique)
-https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
-#EXTINF:-1 group-title="Religion",EWTN Catholic
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="Religion",Vatican Media
-https://ythls.armelin.one/channel/UC7E-LYc1wivk33iyt5bR5zQ.m3u8
+#EXTINF:-1, TyC Sports HD
+http://live.vodgc.com:1935/kLive/smil:0_a5h483eu_all.smil/playlist.m3u8
 
-############### SHOPPING & E-COMMERCE ###############
+#EXTINF:-1, Fox Sports HD Latino
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1, Fox Sports 2 HD Latino
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1, ESPN Espanol Latino
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1, ESPN 3 HD Latino
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1, ESPN + Latino
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1, ESPN + Espanol Latino
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?supertvlat=/.ts
+#EXTINF:-1, Azteca 7 Latino
+http://200.76.77.237/LIVE/H01/CANAL7/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
-#EXTINF:-1 group-title="Shopping",QVC
-https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
-#EXTINF:-1 group-title="Shopping",HSN
-https://hsn-onair-lin.amagi.tv/playlist.m3u8
+#EXTINF:-1, Licey tv Sports Latino
+http://ss6.domint.net:1936/ly_edge/licey/chunklist_w1254078113.m3u8
 
-############### MÉTÉO ###############
+#EXTINF:-1, CDN Sports Max (DO)
+http://108.168.206.90:1935/cdnsm/cdnsm/chunklist_w32181520.m3u8
 
-#EXTINF:-1 group-title="Météo",WeatherNation
-https://weathernationtv.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Météo",Weather Channel
-https://weather-twc-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1, SPORT 1 UKR
+http://193.176.251.228:8000/Sport1 
 
-############### BONUS - PLUTO TV CHANNELS ###############
+#EXTINF:-1, SPORT 2 UKR
+http://91.244.24.86:9999/udp/239.255.250.39:1234 
 
-#EXTINF:-1 group-title="Pluto TV",Pluto TV Cinema
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8
-#EXTINF:-1 group-title="Pluto TV",Pluto TV Movies
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b4a88250852e002ff0ad/master.m3u8
-#EXTINF:-1 group-title="Pluto TV",Pluto TV Drama
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b71a86c7e243cea4eba6/master.m3u8
-#EXTINF:-1 group-title="Pluto TV",Pluto TV Action
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b56de04dd2d4123df9e4/master.m3u8
-#EXTINF:-1 group-title="Pluto TV",Pluto TV Sci-Fi
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7c2d90e6b0d4b6c5267/master.m3u8
-#EXTINF:-1 group-title="Pluto TV",Pluto TV Horror
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b83eb3546e7f68853434/master.m3u8
-#EXTINF:-1 group-title="Pluto TV",Pluto TV Romance
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b20a249444e05d09d0ba/master.m3u8
+#EXTINF:0, WIN SPORTS Latino
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
+
+#EXTINF:0, Versus HD (US)
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+
+#EXTINF:-1, Football Report
+http://fubotv-origin.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:FootballReport_all/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="http://channelpear.com/images/media/9095.png", NFL Now HD
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_h.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="http://channelpear.com/images/media/9095.png", NFL Now SD
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_d.m3u8
+
+#EXTINF:-1, 11 SPORT POL
+rtmp://144.76.154.14/live/elevensport
+#EXTINF:-1, N SPORT POL
+rtmp://85.10.208.218/live/n2sport
+
+#EXTINF:0, Canal del Deporte Olimpico - CDO
+http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
+
+#EXTINF:-1 tvg-logo="UFC china.png" group-title=“DESPORTO”, UFC (CHI)
+rtmp://182.92.189.193/live/ playpath=h_fight_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos 
+
+#EXTINF:-1, FIGHT Sport
+http://118.97.183.222:1935/discover/fight/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="bongda_tv.png" group-title=“DESPORTO”, BONGDA TV (VIE)
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:bongdatvsd_hls.smil/chunklist_b1200000.m3u8
+
+#EXTINF:-1 tvg-logo="thethao.png" group-title=“DESPORTO”, THETHAO TV (VIE)
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:thethaotvsd_hls.smil/chunklist_b1200000.m3u8
+
+#EXTINF:-1, Dolce Sport 1
+http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport/playlist.m3u8
+#EXTINF:-1, Dolce Sport 2
+http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport2/playlist.m3u8
+#EXTINF:-1, Dolce Sport 3
+http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport3/playlist.m3u8
+
+#EXTINF:-1, Dubai Racing
+http://dmi.mangomolo.com:1935/dubairacing/smil:dubairacing.smil/playlist.m3u8
+#EXTINF:-1, Dubai Sports
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/9997.jpg", Poker Central
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
+
+#EXTINF:-1 tvg-logo=\"fox-sports-hd.png\", Fox Sports Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=32&player=playlist.m3u8
+
+#EXTINF:-1 tvg-logo=\"espn.png\", ESPN Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=33&player=playlist.m3u8
+
+#EXTINF:-1 tvg-logo=\"espn-2.png\", ESPN 2 Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=34&player=playlist.m3u8
+
+#EXTINF:-1 tvg-logo=\"espn-3-hd.png\", ESPN 3 Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=35&player=playlist.m3u8
+
+#EXTINF:-1 tvg-logo=\"BeinSports.png\", Bein Sports Latino
+http://iptvcanales.com/xw/cable.php?canal=56&player=playlist.m3u8
+
+#EXTINF:-1 tvg-logo=\"BeinSports.png\", Bein Sports USA
+http://iptvcanales.com/xw/cable.php?canal=57&player=playlist.m3u8
+
+#EXTINF:-1 tvg-logo=\"NFL Network.png\", NFL Network
+http://iptvcanales.com/xw/cable.php?canal=67&player=playlist.m3u8
+
+#EXTINF:0, Eurosport CZ
+http://st02.brn03.iptv.czechbone.net:8083/rel/pc/901/202/0.k.m3u8
+
+#EXTINF:0, Eurosport 2 CZ
+http://st02.brn03.iptv.czechbone.net:8083/rel/pc/901/83/0.k.m3u8
+
+#EXTINF:0, Eurosport News RU
+http://178.165.0.14:4022/udp/239.0.0.219:1234
+
+#EXTINF:-1, Viasat Sport Baltic
+http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/smil:VSB.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="bigpond-sport.png" group-title=“SPORT”, BIGPOND SPORTS (AUS)  
+mms://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpsport_high
+
+#EXTINF:-1 tvg-logo="Bein_sport.png" group-title=“SPORT”, BEIN 1 (ARA)
+rtmp://www1.iguide.to/iguide playpath=nujkqb82ht54f05 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+#EXTINF:-1 tvg-logo="Bein_sport.png" group-title=“SPORT”, BEIN 2 (ARA)
+rtmp://www1.iguide.to/iguide playpath=ix87jz08b1l9wjl swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+#EXTINF:-1 tvg-logo="Bein_sport.png" group-title=“SPORT”, BEIN 3 (ARA)
+rtmp://www1.iguide.to/iguide playpath=zqd4jye2ubzsk8g swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+#EXTINF:-1 tvg-logo="Bein_sport.png" group-title=“SPORT”, BEIN 4 (ARA)
+rtmp://www1.iguide.to/iguide playpath=6kvth9vfk31w5hq swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+#EXTINF:-1 tvg-logo="Bein_sport.png" group-title=“SPORT”, BEIN 5 (ARA)
+rtmp://www1.iguide.to/iguide playpath=uzd0xctulomtekn swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+#EXTINF:-1 tvg-logo="Bein_sport.png" group-title=“SPORT”, BEIN 6 (ARA)
+rtmp://www1.iguide.to/iguide playpath=a66ht7p4opy1s5r swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+#EXTINF:-1 tvg-logo="Bein_sport.png" group-title=“SPORT”, BEIN 7 (ARA)
+rtmp://www1.iguide.to/iguide playpath=ilirzmz6u21561n swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+#EXTINF:-1 tvg-logo="Bein_sport.png" group-title=“SPORT”, BEIN 8 (ARA)
+rtmp://www1.iguide.to/iguide playpath=heh8qiagrxkwcm3 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+#EXTINF:-1 tvg-logo="" group-title=“SPORT”, BEIN 11 (UK)
+rtmp://www1.iguide.to/iguide playpath=ql4mb7goxh0gx7y swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31507&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+#EXTINF:-1 tvg-logo="Bein_sport.png" group-title=“SPORT”, BEIN 12 (ARA)
+rtmp://www1.iguide.to/iguide playpath=zrbbip5ikugr384 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf <pageUrl>http://www.iguide.to/embedplayer_new.php?channel=31508&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1, Rete Sport 8 IT (Low)
+http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8%20Sport.m3u8
+
+#EXTINF:-1, Sport Italia
+http://spi.hystream.com:1935/spilive/spistream_480/playlist.m3u8
+
+#EXTINF:-1, TRT SPOR SD 
+http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
+
+#EXTINF:-1, NBC Sports Golf 720p 
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1, NBC Sports Golf 1080p 
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1, Golf Meca
+http://123.108.164.71/etv2sb/phd929/chunklist_w1032135463.m3u8
+
+#EXTINF:-1, Sharjah Sport
+rtmp://livestreaming.itworkscdn.net/smc4sportslive/smc4tv_360p
+
+#EXTINF:-1, USA-PAC 12 Oregon (HD)
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+
+#EXTINF:-1, TRT 1 HD Turkey 
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+
+#‎EXTINF‬:-1, DXTV Sport
+http://186.33.227.197/DXTV/smil:DXTV.smil/playlist.m3u8
+
+#EXTINF:-1, DUBAI SPORTS 3
+http://origin2.live.web.tv.streamprovider.net/streams/7c7bb92d89f800dc5f0d9e98e7254503/index.m3u8
+
+#EXTINF:-1, AD SPORTS1
+http://origin2.live.web.tv.streamprovider.net/streams/b1ce38c6870c24a64b3d9fbfa2c58b98/index.m3u8
+
+#EXTINF:-1, YAS SPORTS
+http://origin2.live.web.tv.streamprovider.net/streams/35bbb16853a12660e800ba2605999cc5/index.m3u8
+
+#EXTINF:-1, koweit_sport HD
+http://stream03.fasttelco.net:1935/live/_definst_/ktv3_480.stream/playlist.m3u8
+
+#EXTINF:-1, koweit_sport plus
+http://stream03.fasttelco.net:1935/live/_definst_/ktv4_480.stream/playlist.m3u8
+
+#EXTINF:-1, Bahrain_sport
+rtmp://iaa.flashmediacast.com:2387/live// playpath=Sports swfUrl=http://www.primcast.com/jwplayer6/jwplayer.flash.swf live=1 pageUrl=http://www.bna.bh/portal/tv/sports
+
+#EXTINF:-1, NILE Sport
+rtmp://livestreaming5.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=sport
+
+#EXTINF:-1, NILE Sport (opt2)
+rtmp://web4.iptv-planet.com/live playpath=Hi_nilesport?key=077111110032078111118032049054032048056032049055 swfUrl=http://embed.iptv-planet.com/swfs/player.swf live=1 pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_nilesport&width=600&height=400
+
+#EXTINF:-1, Iraqiya Sport
+http://212.7.205.5:1935/sport/live/BratuMarian.m3u8
+
+#EXTINF:-1, Al-Kass One HD
+http://alkass-i.akamaihd.net/hls/live/205534/1/live_13s12.m3u8
+
+#EXTINF:0, Slovak Sport 2
+rtmp://195.168.51.178/live/ss2hd
+
+#EXTINF:-1, Tile Sport SD
+rtmp://78.47.151.114/tilesport playpath=movie1 swfUrl=http://www.tilesport.tv/jwplayer/player.swf live=1 pageUrl=http://tv-live.in/wp-content/uploads/tv-online/Channel/Greek/channel/TileSport%20TV%20-%20link2.htm
+
+#EXTINF:-1, Iraq Sport SD
+http://212.7.205.5:1935/sport/live/chunklist_w156395309.m3u8
+
+#EXTINF:-1, PTV Sports SD
+http://109.123.70.72:1935/live/ptvsports/samitv.m3u8
+
+#EXTINF:-1, KUWAIT 3 SPORT
+http://63.237.48.23/ios/KUWAIT_3_SPORT/KUWAIT_3_SPORT.m3u8
+
+#EXTINF:0, Спорт 1 RU
+http://178.49.204.227:81/udp/239.1.12.7:1234
+
+#EXTINF:0, Football 1 RU
+http://178.165.0.14:4022/udp/239.0.0.214:1234
+
+#EXTINF:-1, Telekanal Futbol RU
+http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
+
+#EXTINF:0, Авто Плюс RU
+http://178.165.0.14:4022/udp/239.0.0.221:1234
+
+#EXTINF:0, NTV PLUS BASKETBOL RU
+http://j.mp/T_NTVPLUSBASKETBOL_sly?.m3u8
+
+#EXTINF:-1, M4 Sport
+http://212.40.98.161/intlivedrm/mtva/mtv4live_international.smil/playlist.m3u8
+
+#EXTINF:-1, Brodilo TV Russia
+http://j.mp/BRODILOHD_sly?.m3u8
+
+#EXTINF:-1, SEVILLA FC SleilaN
+http://gstudio_hls04-lh.akamaihd.net/i/hls04stream001_0@348222/index_700_av-b.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1, TRT SPOR TK
+http://hdtvizle.ru/14452/71930/71968/trts.m3u8
+#EXTINF:-1, A SPOR TK
+http://hdtvizle.ru/14452/71930/71968/aspor1.m3u8
+#EXTINF:-1, NTV SPOR TK
+http://hdtvizle.ru/14452/71930/71968/ntvs.m3u8
+#EXTINF:-1, SPORTS TV TK
+http://hdtvizle.ru/14452/71930/71968/sports.m3u8
+
+#EXTINF:-1, NTV SPOR TK
+http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
+#EXTINF:-1, FANATIK TV TK
+rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720
+#EXTINF:-1, BURSASPOR TV TK
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
+
+#EXTINF:-1, Fox Sports 1 HD NL
+http://bit.ly/1XxOerx
+
+#EXTINF:-1, Fox Sports 2 HD NL
+http://bit.ly/1RciKYh
+
+#EXTINF:-1, Fox Sports 3 NL
+http://bit.ly/1TdiYgg
+
+#EXTINF:-1, Auto Moto TV Gaz (RU)
+mms://100automoto.tv/100gaz
+
+#EXTINF:-1, PORSCHE CHANNEL
+mms://100automoto.tv/channel_porsche
+
+#EXTINF:-1, Electric
+mms://100automoto.tv/channel_electric
+
+#EXTINF:-1, AutoSport TV
+mms://100automoto.tv/100livesport
+
+#EXTINF:0, Mercedes-Benz Channel
+mms://100automoto.tv/channel_mercedes
+
+#EXTINF:0, Auto Italia Channel
+mms://100automoto.tv/channel_italy
+
+#EXTINF:-1 tvg-logo="BTN.png" group-title="All Sports", Big Ten Network HD
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+
+
+#EXTINF:-1, SPORTTV 1 Portugal
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c pageUrl=http://sharecast.to/
+ 
+#EXTINF:-1, SPORTTV 2 Portugal
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr pageUrl=http://sharecast.to/
+
+#EXTINF:0, KAZSPORT
+http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
+
+#EXTINF:-1, Sports Night HD
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
+
+#EXTINF:-1 tvg-logo="cdN.png", CDN Sports SD
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+
+#EXTINF:-1, SPORTSTV 
+http://origin.live.web.tv.streamprovider.net/streams/4be5c4a578575c5b4e15a61f2dbc01cf_live_0_0/index.m3u8
